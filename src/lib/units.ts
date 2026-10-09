@@ -1,0 +1,21 @@
+export type UnitPin = {
+  id: string; name: string; program: string; district: string;
+  pinStatus: string; pinView: string; applicationStatus: string;
+  coordinates: [number, number] | null;
+  pinAddress: string; meetingAddress: string; meetingSchedule: string;
+  meetingWeek: string; meetingDay: string; meetingStart: string; meetingEnd: string;
+  website: string; updatedWithinYear: string; lastModified: string;
+};
+export type UnitPayload = { source: string; importedAt: string; units: UnitPin[] };
+export function filterUnits(units: UnitPin[], status: string, program: string, district: string) {
+  return units.filter(u => (status === "All" || u.pinStatus === status) && (program === "All" || u.program === program) && (district === "All" || u.district === district));
+}
+export function groupUnitPins(units: UnitPin[]) {
+  const groups = new Map<string, UnitPin[]>();
+  for (const unit of units) {
+    if (!unit.coordinates) continue;
+    const key = unit.coordinates.join(",");
+    groups.set(key, [...(groups.get(key) ?? []), unit]);
+  }
+  return [...groups.values()];
+}
