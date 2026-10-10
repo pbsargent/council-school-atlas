@@ -5,6 +5,9 @@ export type UnitPin = {
   pinAddress: string; meetingAddress: string; meetingSchedule: string;
   meetingWeek: string; meetingDay: string; meetingStart: string; meetingEnd: string;
   coordinatesRetained?: boolean;
+  zipCode?: string | null;
+  beascoutUrl?: string | null;
+  beascoutVerifiedAt?: string | null;
   website: string; updatedWithinYear: string; lastModified: string;
 };
 export type UnitPayload = { source: string; importedAt: string; units: UnitPin[] };

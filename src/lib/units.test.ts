@@ -15,6 +15,11 @@ describe("unit pins", () => {
     expect(active.filter(u => !u.coordinates)).toEqual(payload.units.filter(u => u.pinStatus === "Active" && !u.coordinates));
     expect(filterUnits(active, "Active", "Pack", "Armadillo 02").every(u => u.program === "Pack" && u.district === "Armadillo 02")).toBe(true);
   });
+  it("uses only verified canonical BeAScout unit pages", () => {
+    const linked = payload.units.filter(u => u.beascoutUrl);
+    expect(linked.every(u => /^https:\/\/beascout\.scouting\.org\/units\/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(u.beascoutUrl!) && Boolean(u.beascoutVerifiedAt))).toBe(true);
+    expect(new Set(linked.map(u => u.beascoutUrl)).size).toBe(linked.length);
+  });
   it("groups shared coordinates without losing units", () => {
     const groups = groupUnitPins(payload.units);
     expect(groups.flat()).toHaveLength(payload.units.filter(u => u.coordinates).length);

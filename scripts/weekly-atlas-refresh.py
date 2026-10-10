@@ -31,6 +31,7 @@ with (state/'refresh.lock').open('w') as lock:
  env={**os.environ,'ATLAS_OUTPUT_ROOT':str(stage)}
  subprocess.run([sys.executable,str(ROOT/'scripts/refresh-school-snapshot.py'),str(args.school_source)],env=env,check=True)
  subprocess.run([sys.executable,str(ROOT/'scripts/import-unit-pins.py'),str(args.unit_source)],env=env,check=True)
+ subprocess.run([sys.executable,str(ROOT/'scripts/resolve-beascout-links.py')],env=env,check=True)
  names=['public/data/data-manifest.json','public/data/unit-pins.json','public/data/CapitolAreaCouncil_Schools.geojson','data/school-directory.json']
  backups={name:(ROOT/name).read_bytes() for name in names}
  try:

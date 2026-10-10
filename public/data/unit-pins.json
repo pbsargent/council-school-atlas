@@ -1,6 +1,8 @@
 {
   "source": "Council PinDataReport.csv",
-  "importedAt": "2026-10-10T10:47:29.104446+00:00",
+  "sourceModifiedAt": "2026-10-10T10:37:22.075018+00:00",
+  "importedAt": "2026-10-10T11:38:04.285340+00:00",
+  "warnings": [],
   "units": [
     {
       "id": "371266",
@@ -23,7 +25,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "02/28/2026 01:50:00"
+      "lastModified": "02/28/2026 01:50:00",
+      "coordinatesRetained": false,
+      "zipCode": "78758",
+      "beascoutUrl": "https://beascout.scouting.org/units/107554b0-4371-43a7-a247-2d49b45ae4fe",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "373528",
@@ -46,7 +52,11 @@
       "meetingEnd": "09:30 PM",
       "website": "www.troop3austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/13/2026 18:46:01"
+      "lastModified": "09/13/2026 18:46:01",
+      "coordinatesRetained": false,
+      "zipCode": "78731",
+      "beascoutUrl": "https://beascout.scouting.org/units/7a11179c-6d85-49fc-9ac0-c360023b841a",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "23503",
@@ -69,7 +79,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "02/28/2026 01:50:00"
+      "lastModified": "02/28/2026 01:50:00",
+      "coordinatesRetained": false,
+      "zipCode": "78660",
+      "beascoutUrl": "https://beascout.scouting.org/units/8b3afb8e-8adf-46e7-a9d8-66826ccdea36",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "286046",
@@ -92,7 +106,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/29/2024 21:38:29"
+      "lastModified": "08/29/2024 21:38:29",
+      "coordinatesRetained": false,
+      "zipCode": "78753",
+      "beascoutUrl": "https://beascout.scouting.org/units/dd79028b-6fa0-48ee-9fc4-1073547d1d13",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "25921",
@@ -115,7 +133,11 @@
       "meetingEnd": "",
       "website": "www.pack2austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/04/2026 17:06:58"
+      "lastModified": "09/04/2026 17:06:58",
+      "coordinatesRetained": false,
+      "zipCode": "78731",
+      "beascoutUrl": "https://beascout.scouting.org/units/5d8f6736-4bd3-47ec-8d81-095707dc2dc2",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "263894",
@@ -138,7 +160,11 @@
       "meetingEnd": "03:30 PM",
       "website": "https://pack9.net",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 19:39:08"
+      "lastModified": "10/02/2026 19:39:08",
+      "coordinatesRetained": false,
+      "zipCode": "78703",
+      "beascoutUrl": "https://beascout.scouting.org/units/ee98ebd8-2ba8-41d3-8a9c-a2b4daae5475",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "265656",
@@ -161,7 +187,11 @@
       "meetingEnd": "",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/18/2025 08:18:40"
+      "lastModified": "12/18/2025 08:18:40",
+      "coordinatesRetained": false,
+      "zipCode": "78704",
+      "beascoutUrl": "https://beascout.scouting.org/units/5bb07501-9965-47ea-a376-349f12bee6f8",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "298740",
@@ -184,7 +214,11 @@
       "meetingEnd": "07:30 PM",
       "website": "Pack20austin.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:10"
+      "lastModified": "09/28/2026 19:34:10",
+      "coordinatesRetained": false,
+      "zipCode": "78703",
+      "beascoutUrl": "https://beascout.scouting.org/units/926ea395-8fd1-4339-aceb-d5299082af01",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "212866",
@@ -207,7 +241,11 @@
       "meetingEnd": "04:30 PM",
       "website": "https://www.facebook.com/groups/1284500318245061/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 18:46:57"
+      "lastModified": "10/05/2026 18:46:57",
+      "coordinatesRetained": false,
+      "zipCode": "78745",
+      "beascoutUrl": "https://beascout.scouting.org/units/b87891c5-ee1c-4aad-acd9-51e87bfc6f04",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "155166",
@@ -230,7 +268,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/20/2026 22:49:08"
+      "lastModified": "09/20/2026 22:49:08",
+      "coordinatesRetained": false,
+      "zipCode": "78705",
+      "beascoutUrl": "https://beascout.scouting.org/units/d137316d-710d-4124-bbf4-67649585bee7",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "22661",
@@ -253,7 +295,11 @@
       "meetingEnd": "08:00 PM",
       "website": "www.pack49austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 20:39:54"
+      "lastModified": "10/02/2026 20:39:54",
+      "coordinatesRetained": false,
+      "zipCode": "78757",
+      "beascoutUrl": "https://beascout.scouting.org/units/0e058bdc-fd6a-47da-9c00-b37323f386ee",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "124692",
@@ -276,7 +322,11 @@
       "meetingEnd": "",
       "website": "http://www.pack55atx.com/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/20/2026 20:04:30"
+      "lastModified": "09/20/2026 20:04:30",
+      "coordinatesRetained": false,
+      "zipCode": "78757",
+      "beascoutUrl": "https://beascout.scouting.org/units/4e3c71fd-0146-47a6-b75b-5c0c53606f30",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "246892",
@@ -299,7 +349,11 @@
       "meetingEnd": "",
       "website": "www.Pack59Austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/09/2025 13:13:21"
+      "lastModified": "12/09/2025 13:13:21",
+      "coordinatesRetained": false,
+      "zipCode": "78757",
+      "beascoutUrl": "https://beascout.scouting.org/units/0cafa68c-b1a3-4537-a7c7-cb6dc29ceba0",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "142331",
@@ -322,7 +376,11 @@
       "meetingEnd": "",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/30/2025 21:46:48"
+      "lastModified": "12/30/2025 21:46:48",
+      "coordinatesRetained": false,
+      "zipCode": "78757",
+      "beascoutUrl": "https://beascout.scouting.org/units/f6001665-9cb7-4f97-be45-6dd8008eb368",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "160725",
@@ -345,7 +403,11 @@
       "meetingEnd": "07:30 PM",
       "website": "www.pack90austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/03/2026 08:41:12"
+      "lastModified": "10/03/2026 08:41:12",
+      "coordinatesRetained": false,
+      "zipCode": "78727",
+      "beascoutUrl": "https://beascout.scouting.org/units/321111db-27c5-47c4-ba18-e727a5a66ae0",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "40827",
@@ -368,7 +430,11 @@
       "meetingEnd": "07:30 PM",
       "website": "www.pack406.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/06/2026 18:41:15"
+      "lastModified": "10/06/2026 18:41:15",
+      "coordinatesRetained": false,
+      "zipCode": "78660",
+      "beascoutUrl": "https://beascout.scouting.org/units/0b04365c-8789-4498-b2c3-7bd76c82c0b1",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "379272",
@@ -391,7 +457,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "01/13/2026 11:46:11"
+      "lastModified": "01/13/2026 11:46:11",
+      "coordinatesRetained": false,
+      "zipCode": "78723",
+      "beascoutUrl": "https://beascout.scouting.org/units/1a8d6c2c-57ba-413c-b82b-a4bf6063db71",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "43151",
@@ -414,7 +484,11 @@
       "meetingEnd": "",
       "website": "http://www.pack421austin.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 01:22:47"
+      "lastModified": "08/30/2024 01:22:47",
+      "coordinatesRetained": false,
+      "zipCode": "78727",
+      "beascoutUrl": "https://beascout.scouting.org/units/f88eb0d1-45d9-4ef3-9b07-8a36f80a37ad",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "47719",
@@ -437,7 +511,11 @@
       "meetingEnd": "04:15 PM",
       "website": "www.cubscoutspack459.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:33:18"
+      "lastModified": "09/28/2026 19:33:18",
+      "coordinatesRetained": false,
+      "zipCode": "78751",
+      "beascoutUrl": "https://beascout.scouting.org/units/5635d555-c970-49dd-a3db-6e3b7b9a77cc",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "185903",
@@ -460,7 +538,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:06"
+      "lastModified": "09/28/2026 19:34:06",
+      "coordinatesRetained": false,
+      "zipCode": "78723",
+      "beascoutUrl": "https://beascout.scouting.org/units/7c7f8357-f5ca-4bad-b202-909d793146e2",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "102322",
@@ -483,7 +565,11 @@
       "meetingEnd": "",
       "website": "http://www.pack511.org",
       "updatedWithinYear": "No",
-      "lastModified": "09/08/2025 08:29:28"
+      "lastModified": "09/08/2025 08:29:28",
+      "coordinatesRetained": false,
+      "zipCode": "78759",
+      "beascoutUrl": "https://beascout.scouting.org/units/fe0b4b0f-35d0-4227-8173-852e882cff75",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "375069",
@@ -506,7 +592,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "08/17/2026 15:31:47"
+      "lastModified": "08/17/2026 15:31:47",
+      "coordinatesRetained": false,
+      "zipCode": "78752",
+      "beascoutUrl": "https://beascout.scouting.org/units/f83c5266-7c5d-4415-924f-814488e84556",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "205848",
@@ -529,7 +619,11 @@
       "meetingEnd": "",
       "website": "https://www.pack685.com/",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/10/2026 19:38:53"
+      "lastModified": "07/10/2026 19:38:53",
+      "coordinatesRetained": false,
+      "zipCode": "78660",
+      "beascoutUrl": "https://beascout.scouting.org/units/99a5f68e-60fd-4fdb-89ba-74d3cd1e5d40",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "118317",
@@ -552,7 +646,11 @@
       "meetingEnd": "07:00 PM",
       "website": "https://sites.google.com/view/pack711",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 20:41:25"
+      "lastModified": "10/01/2026 20:41:25",
+      "coordinatesRetained": false,
+      "zipCode": "78660",
+      "beascoutUrl": "https://beascout.scouting.org/units/038e0758-099d-48ef-ad1d-bb20f6e363d6",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "374674",
@@ -575,7 +673,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "05/21/2025 11:48:00"
+      "lastModified": "05/21/2025 11:48:00",
+      "coordinatesRetained": false,
+      "zipCode": "78728",
+      "beascoutUrl": "https://beascout.scouting.org/units/5d96393f-1069-4638-847d-3d4e9bedfed2",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "380265",
@@ -595,7 +697,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": ""
+      "lastModified": "",
+      "coordinatesRetained": false,
+      "zipCode": "78757",
+      "beascoutUrl": "https://beascout.scouting.org/units/309705ca-fee7-40d0-8b9f-a8a7425083da",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "350639",
@@ -618,7 +724,11 @@
       "meetingEnd": "",
       "website": "http://www.seascoutshiptexas.org/",
       "updatedWithinYear": "No",
-      "lastModified": "08/05/2025 10:12:23"
+      "lastModified": "08/05/2025 10:12:23",
+      "coordinatesRetained": false,
+      "zipCode": "78731",
+      "beascoutUrl": "https://beascout.scouting.org/units/d43911d8-ac86-4b5b-afc6-078fa44dac4a",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "114847",
@@ -641,7 +751,11 @@
       "meetingEnd": "",
       "website": "www.scubaship1407.ch2v.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 13:57:00"
+      "lastModified": "10/01/2026 13:57:00",
+      "coordinatesRetained": false,
+      "zipCode": "78729",
+      "beascoutUrl": "https://beascout.scouting.org/units/9f7000db-0e12-4e02-aab6-5b5dd9f1a7e5",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "365322",
@@ -664,7 +778,11 @@
       "meetingEnd": "08:15 PM",
       "website": "https://www.troop3austin.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 19:38:23"
+      "lastModified": "10/01/2026 19:38:23",
+      "coordinatesRetained": false,
+      "zipCode": "78731",
+      "beascoutUrl": "https://beascout.scouting.org/units/9cead75e-8df0-4e53-bc49-a4a7e01198c8",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "59840",
@@ -687,7 +805,11 @@
       "meetingEnd": "08:15 PM",
       "website": "www.troop3austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:33:12"
+      "lastModified": "09/28/2026 19:33:12",
+      "coordinatesRetained": false,
+      "zipCode": "78731",
+      "beascoutUrl": "https://beascout.scouting.org/units/9627bf09-38e3-4abd-b46f-7615eafbcdad",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "26792",
@@ -710,7 +832,11 @@
       "meetingEnd": "",
       "website": "https://austin5.mytroop.us/",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 09:51:20"
+      "lastModified": "08/30/2024 09:51:20",
+      "coordinatesRetained": false,
+      "zipCode": "78701",
+      "beascoutUrl": "https://beascout.scouting.org/units/50ed3172-a58f-4025-8876-b5a9171d9f58",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "150523",
@@ -733,7 +859,11 @@
       "meetingEnd": "02:00 PM",
       "website": "https://www.troop9austin.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:32:29"
+      "lastModified": "09/28/2026 19:32:29",
+      "coordinatesRetained": false,
+      "zipCode": "78703",
+      "beascoutUrl": "https://beascout.scouting.org/units/c62ad105-c01d-4653-ad1f-6f76f5b79e43",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "77767",
@@ -756,7 +886,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.troop33atx.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 07:40:38"
+      "lastModified": "10/05/2026 07:40:38",
+      "coordinatesRetained": false,
+      "zipCode": "78704",
+      "beascoutUrl": "https://beascout.scouting.org/units/7f456026-dc73-401f-a76b-0e5d3f73e2e3",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "331548",
@@ -779,7 +913,11 @@
       "meetingEnd": "",
       "website": "http://www.bsacac.org",
       "updatedWithinYear": "No",
-      "lastModified": "12/04/2024 17:49:24"
+      "lastModified": "12/04/2024 17:49:24",
+      "coordinatesRetained": false,
+      "zipCode": "78705",
+      "beascoutUrl": "https://beascout.scouting.org/units/8345f25f-78d7-47ae-ab62-42e47373f1d2",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "203933",
@@ -802,7 +940,11 @@
       "meetingEnd": "",
       "website": "www.austintroop49.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 10:26:53"
+      "lastModified": "08/30/2024 10:26:53",
+      "coordinatesRetained": false,
+      "zipCode": "78757",
+      "beascoutUrl": "https://beascout.scouting.org/units/5ee67d55-dc9a-45c2-b090-fbb71d383e03",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "358104",
@@ -825,7 +967,11 @@
       "meetingEnd": "08:30 PM",
       "website": "Austin50.mytroop.us",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/29/2026 14:38:00"
+      "lastModified": "09/29/2026 14:38:00",
+      "coordinatesRetained": false,
+      "zipCode": "78701",
+      "beascoutUrl": "https://beascout.scouting.org/units/521071d4-f4c0-435a-9105-41f5964660af",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "306872",
@@ -848,7 +994,11 @@
       "meetingEnd": "08:15 PM",
       "website": "www.troop89austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/15/2026 13:49:36"
+      "lastModified": "09/15/2026 13:49:36",
+      "coordinatesRetained": false,
+      "zipCode": "78757",
+      "beascoutUrl": "https://beascout.scouting.org/units/c6e8f9de-c626-466f-8f10-b50e0fbff5b7",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "377864",
@@ -871,7 +1021,11 @@
       "meetingEnd": "03:30 PM",
       "website": "https://www.troopwebhost.org/Troop99Austin/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 17:39:12"
+      "lastModified": "10/01/2026 17:39:12",
+      "coordinatesRetained": false,
+      "zipCode": "78703",
+      "beascoutUrl": "https://beascout.scouting.org/units/cc412a31-ff0f-4439-90c7-acd549f90933",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "110238",
@@ -894,7 +1048,11 @@
       "meetingEnd": "06:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "08/30/2026 10:42:21"
+      "lastModified": "08/30/2026 10:42:21",
+      "coordinatesRetained": false,
+      "zipCode": "78759",
+      "beascoutUrl": "https://beascout.scouting.org/units/ac00612f-ebc3-4a21-9e09-75df8656bab1",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "224388",
@@ -917,7 +1075,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.t408.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 09:37:49"
+      "lastModified": "10/01/2026 09:37:49",
+      "coordinatesRetained": false,
+      "zipCode": "78660",
+      "beascoutUrl": "https://beascout.scouting.org/units/27e865d3-c243-4e05-a894-38432b614e37",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "219937",
@@ -940,7 +1102,11 @@
       "meetingEnd": "",
       "website": "www.T410.org",
       "updatedWithinYear": "No",
-      "lastModified": "12/02/2024 18:50:04"
+      "lastModified": "12/02/2024 18:50:04",
+      "coordinatesRetained": false,
+      "zipCode": "78731",
+      "beascoutUrl": "https://beascout.scouting.org/units/046a50cf-0680-4b78-bf0c-6ea53f64d1aa",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "128305",
@@ -963,7 +1129,11 @@
       "meetingEnd": "08:00 PM",
       "website": "https://sites.google.com/view/troop-413-austin-tx/home",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:15"
+      "lastModified": "09/28/2026 19:34:15",
+      "coordinatesRetained": false,
+      "zipCode": "78723",
+      "beascoutUrl": "https://beascout.scouting.org/units/5d98022f-8fc4-4204-a07d-a557cd6f1846",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "275434",
@@ -986,7 +1156,11 @@
       "meetingEnd": "08:00 PM",
       "website": "http://www.troop421austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 19:39:07"
+      "lastModified": "10/02/2026 19:39:07",
+      "coordinatesRetained": false,
+      "zipCode": "78727",
+      "beascoutUrl": "https://beascout.scouting.org/units/30e173d9-3f1d-4c6d-aabc-25ef1fa7340f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "264324",
@@ -1009,7 +1183,11 @@
       "meetingEnd": "08:40 PM",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:32:38"
+      "lastModified": "09/28/2026 19:32:38",
+      "coordinatesRetained": false,
+      "zipCode": "78723",
+      "beascoutUrl": "https://beascout.scouting.org/units/0c0d6a5f-2653-400e-9a47-cfeb34572903",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "357985",
@@ -1032,7 +1210,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.t508.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 23:41:41"
+      "lastModified": "10/05/2026 23:41:41",
+      "coordinatesRetained": false,
+      "zipCode": "78660",
+      "beascoutUrl": "https://beascout.scouting.org/units/b11d4562-91fb-48e4-8cc5-2b694493eb7c",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "243402",
@@ -1055,7 +1237,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.troop511austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 19:38:06"
+      "lastModified": "10/01/2026 19:38:06",
+      "coordinatesRetained": false,
+      "zipCode": "78759",
+      "beascoutUrl": "https://beascout.scouting.org/units/1736d911-7a8f-45d0-9260-1115840c1a8d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "258381",
@@ -1078,7 +1264,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.troop685.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/06/2026 20:47:44"
+      "lastModified": "10/06/2026 20:47:44",
+      "coordinatesRetained": false,
+      "zipCode": "78660",
+      "beascoutUrl": "https://beascout.scouting.org/units/524df2b5-0bff-4871-ac79-0343f248d730",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "241456",
@@ -1101,7 +1291,11 @@
       "meetingEnd": "",
       "website": "https://www.facebook.com/groups/Troop711pf",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/30/2025 11:33:23"
+      "lastModified": "12/30/2025 11:33:23",
+      "coordinatesRetained": false,
+      "zipCode": "78660",
+      "beascoutUrl": "https://beascout.scouting.org/units/da3009a9-453b-478c-8719-e69476766f2e",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "48485",
@@ -1124,7 +1318,11 @@
       "meetingEnd": "10:00 PM",
       "website": "www.troop797.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 19:38:15"
+      "lastModified": "10/01/2026 19:38:15",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/cdbb2a2b-dde0-43b8-9c4c-80dd9d38b32b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "156446",
@@ -1147,7 +1345,11 @@
       "meetingEnd": "07:45 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 21:40:55"
+      "lastModified": "10/02/2026 21:40:55",
+      "coordinatesRetained": false,
+      "zipCode": "78757",
+      "beascoutUrl": "https://beascout.scouting.org/units/b27dd61a-0cc5-4c35-97b8-71101067b152",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "357746",
@@ -1170,7 +1372,11 @@
       "meetingEnd": "",
       "website": "http://www.troop2019atx.org/",
       "updatedWithinYear": "No",
-      "lastModified": "12/02/2024 19:04:41"
+      "lastModified": "12/02/2024 19:04:41",
+      "coordinatesRetained": false,
+      "zipCode": "78731",
+      "beascoutUrl": "https://beascout.scouting.org/units/15545282-32b5-40fd-b581-89859b9d0221",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "259993",
@@ -1193,7 +1399,11 @@
       "meetingEnd": "08:00 PM",
       "website": "http://troop4277.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/01/2026 19:31:53"
+      "lastModified": "09/01/2026 19:31:53",
+      "coordinatesRetained": false,
+      "zipCode": "78660",
+      "beascoutUrl": "https://beascout.scouting.org/units/779bc5e5-f08f-4dc3-b0c0-f95e17f25888",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "273816",
@@ -1216,7 +1426,11 @@
       "meetingEnd": "07:30 PM",
       "website": "www.troop8787.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:21"
+      "lastModified": "09/28/2026 19:34:21",
+      "coordinatesRetained": false,
+      "zipCode": "78753",
+      "beascoutUrl": "https://beascout.scouting.org/units/f18e87c7-9f75-4fcd-b19d-01bb64477b71",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "63394",
@@ -1239,7 +1453,11 @@
       "meetingEnd": "09:00 PM",
       "website": "https://www.crew454.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/27/2026 12:32:45"
+      "lastModified": "07/27/2026 12:32:45",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/ab867728-3ea5-4a68-b1a5-9288b254bcfd",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "374440",
@@ -1262,7 +1480,11 @@
       "meetingEnd": "",
       "website": "crew4443.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/03/2026 20:12:13"
+      "lastModified": "09/03/2026 20:12:13",
+      "coordinatesRetained": false,
+      "zipCode": "78736",
+      "beascoutUrl": "https://beascout.scouting.org/units/121b84e9-40a8-4591-a711-6d17e322ccd5",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "22955",
@@ -1285,7 +1507,11 @@
       "meetingEnd": "07:30 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 18:38:00"
+      "lastModified": "10/01/2026 18:38:00",
+      "coordinatesRetained": false,
+      "zipCode": "78733",
+      "beascoutUrl": "https://beascout.scouting.org/units/65d25dec-9c53-4608-b9c3-2f5cac84c0e9",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "269557",
@@ -1308,7 +1534,11 @@
       "meetingEnd": "",
       "website": "austin30.mypack.us",
       "updatedWithinYear": "No",
-      "lastModified": "08/29/2024 22:28:36"
+      "lastModified": "08/29/2024 22:28:36",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/361bf22f-14e0-4519-886a-76904cad1216",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "274239",
@@ -1331,7 +1561,11 @@
       "meetingEnd": "",
       "website": "www.pack39.org/join",
       "updatedWithinYear": "No",
-      "lastModified": "08/29/2024 22:36:32"
+      "lastModified": "08/29/2024 22:36:32",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/898cd7ff-464f-40ef-9a90-51bb1d2c7226",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "171454",
@@ -1354,7 +1588,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://austin66.trooptrack.com/share/pages/26243",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 09:39:33"
+      "lastModified": "10/02/2026 09:39:33",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/e53bb663-d465-4daa-b075-c588aeb1df1d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "210155",
@@ -1377,7 +1615,11 @@
       "meetingEnd": "",
       "website": "https://sites.google.com/view/cubcouts72/home",
       "updatedWithinYear": "No",
-      "lastModified": "08/29/2024 23:04:34"
+      "lastModified": "08/29/2024 23:04:34",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/f72eca62-b876-4417-98dd-fb23b62d3cd3",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "179834",
@@ -1400,7 +1642,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://ccepack91.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/30/2026 15:37:06"
+      "lastModified": "09/30/2026 15:37:06",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/cb643e42-4b5a-457e-b05c-ed5d710cec56",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "195089",
@@ -1423,7 +1669,11 @@
       "meetingEnd": "",
       "website": "https://www.pack440.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/16/2026 14:18:37"
+      "lastModified": "09/16/2026 14:18:37",
+      "coordinatesRetained": false,
+      "zipCode": "78734",
+      "beascoutUrl": "https://beascout.scouting.org/units/3a063782-1e4a-4deb-955a-3cfc39c2c709",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "22084",
@@ -1446,7 +1696,11 @@
       "meetingEnd": "08:00 PM",
       "website": "www.lakewaycubscouts.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 13:42:21"
+      "lastModified": "10/05/2026 13:42:21",
+      "coordinatesRetained": false,
+      "zipCode": "78734",
+      "beascoutUrl": "https://beascout.scouting.org/units/dfd1b488-a44c-43d5-96b6-f29e2ad40afa",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "136946",
@@ -1469,7 +1723,11 @@
       "meetingEnd": "07:30 PM",
       "website": "http://pack445.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/11/2026 15:10:43"
+      "lastModified": "09/11/2026 15:10:43",
+      "coordinatesRetained": false,
+      "zipCode": "78738",
+      "beascoutUrl": "https://beascout.scouting.org/units/85b8d5a1-d806-47c6-93f6-fe42ed2e7bb2",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "355193",
@@ -1492,7 +1750,11 @@
       "meetingEnd": "",
       "website": "https://www.troopwebhostcs.org/Pack786Spicewood/Index.htm",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 02:22:05"
+      "lastModified": "08/30/2024 02:22:05",
+      "coordinatesRetained": false,
+      "zipCode": "78669",
+      "beascoutUrl": "https://beascout.scouting.org/units/f4ca609e-5c70-47ee-8457-a4e2dcdaf0e8",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "60321",
@@ -1515,7 +1777,11 @@
       "meetingEnd": "",
       "website": "https://www.facebook.com/groups/545381988898181/",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 09:40:09"
+      "lastModified": "08/30/2024 09:40:09",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/a368d1af-49a2-4d5e-a44e-c9ee9715331d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "70107",
@@ -1538,7 +1804,11 @@
       "meetingEnd": "08:00 PM",
       "website": "austin30.mytroop.us",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 19:39:03"
+      "lastModified": "10/02/2026 19:39:03",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/d00151d1-b21b-4bbb-9772-a5ecfb29eafa",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "323472",
@@ -1561,7 +1831,11 @@
       "meetingEnd": "08:00 PM",
       "website": "https://www.bsatroop31.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/02/2026 09:37:37"
+      "lastModified": "09/02/2026 09:37:37",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/8e30b0df-7dd7-47f8-ad36-bc76a7033399",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "111552",
@@ -1584,7 +1858,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://troop52lakeway.us/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:32:38"
+      "lastModified": "09/28/2026 19:32:38",
+      "coordinatesRetained": false,
+      "zipCode": "78734",
+      "beascoutUrl": "https://beascout.scouting.org/units/00d30b72-f88e-4ff2-9b41-afde1d0f8679",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "37674",
@@ -1607,7 +1885,11 @@
       "meetingEnd": "08:30 PM",
       "website": "http://troopmasterweb.com/Troop70Austin",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/03/2026 10:40:49"
+      "lastModified": "10/03/2026 10:40:49",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/e71c7bdd-74a6-4be0-8296-5e972abc406c",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "357944",
@@ -1630,7 +1912,11 @@
       "meetingEnd": "08:00 PM",
       "website": "https://tmweb.troopmaster.com/Website/Home",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/06/2026 20:47:46"
+      "lastModified": "10/06/2026 20:47:46",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/0cd17e99-0988-4674-abaf-fb07ac646741",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "338423",
@@ -1653,7 +1939,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "12/30/2024 19:57:36"
+      "lastModified": "12/30/2024 19:57:36",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/f88db498-2860-4608-b03a-8f5f59f5ac2b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "170648",
@@ -1676,7 +1966,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://troop441.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 18:46:59"
+      "lastModified": "10/05/2026 18:46:59",
+      "coordinatesRetained": false,
+      "zipCode": "78734",
+      "beascoutUrl": "https://beascout.scouting.org/units/843c33a4-8b1c-4084-bd65-36fe66c6cb1f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "8872",
@@ -1699,7 +1993,11 @@
       "meetingEnd": "08:15 PM",
       "website": "http://www.454.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/01/2026 20:01:42"
+      "lastModified": "09/01/2026 20:01:42",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/4d66e219-f1aa-4792-bff7-785ad0d64e2f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "364372",
@@ -1722,7 +2020,11 @@
       "meetingEnd": "08:00 PM",
       "website": "https://www.troop550.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/29/2026 11:36:39"
+      "lastModified": "09/29/2026 11:36:39",
+      "coordinatesRetained": false,
+      "zipCode": "78736",
+      "beascoutUrl": "https://beascout.scouting.org/units/4dfd55fe-2e5c-4e7f-a6d4-5e90164ca65c",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "227083",
@@ -1745,7 +2047,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.troop786.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/08/2026 06:46:10"
+      "lastModified": "10/08/2026 06:46:10",
+      "coordinatesRetained": false,
+      "zipCode": "78669",
+      "beascoutUrl": "https://beascout.scouting.org/units/8660c280-673b-41d8-ab4b-e1c0428ca400",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "132583",
@@ -1768,7 +2074,11 @@
       "meetingEnd": "08:00 PM",
       "website": "www.troop990.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/14/2026 10:37:32"
+      "lastModified": "07/14/2026 10:37:32",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/397ce530-1cf5-457d-add0-f1d56b06fa32",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "332058",
@@ -1791,7 +2101,11 @@
       "meetingEnd": "08:15 PM",
       "website": "sites.google.com/site/troop1010tx/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/06/2026 13:40:56"
+      "lastModified": "10/06/2026 13:40:56",
+      "coordinatesRetained": false,
+      "zipCode": "78733",
+      "beascoutUrl": "https://beascout.scouting.org/units/f2745865-4146-4ece-9be0-698c6ca432d7",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "371571",
@@ -1814,7 +2128,11 @@
       "meetingEnd": "",
       "website": "https://www.troopwebhost.org/Troop4411Austin/",
       "updatedWithinYear": "No",
-      "lastModified": "09/27/2024 12:50:12"
+      "lastModified": "09/27/2024 12:50:12",
+      "coordinatesRetained": false,
+      "zipCode": "78734",
+      "beascoutUrl": "https://beascout.scouting.org/units/928eb0a6-69ca-4337-a514-ad4b69800c49",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "367828",
@@ -1837,7 +2155,11 @@
       "meetingEnd": "",
       "website": "https://www.troop4443.com",
       "updatedWithinYear": "No",
-      "lastModified": "08/20/2025 11:42:13"
+      "lastModified": "08/20/2025 11:42:13",
+      "coordinatesRetained": false,
+      "zipCode": "78735",
+      "beascoutUrl": "https://beascout.scouting.org/units/109ca139-e672-4d30-9ba3-8bce5e714471",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "357906",
@@ -1860,7 +2182,11 @@
       "meetingEnd": "08:15 PM",
       "website": "www.454.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 18:39:35"
+      "lastModified": "10/02/2026 18:39:35",
+      "coordinatesRetained": false,
+      "zipCode": "78746",
+      "beascoutUrl": "https://beascout.scouting.org/units/adec6c8a-dca3-4f46-b98a-647f34206de4",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "367613",
@@ -1883,7 +2209,11 @@
       "meetingEnd": "05:30 PM",
       "website": "https://spicewood7862.mytroop.us/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 18:38:01"
+      "lastModified": "10/01/2026 18:38:01",
+      "coordinatesRetained": false,
+      "zipCode": "78669",
+      "beascoutUrl": "https://beascout.scouting.org/units/69089f83-a5dc-42ed-9c62-4ab3ff993a2c",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "375488",
@@ -1906,7 +2236,11 @@
       "meetingEnd": "",
       "website": "www.crew157.org",
       "updatedWithinYear": "No",
-      "lastModified": "07/31/2025 07:45:13"
+      "lastModified": "07/31/2025 07:45:13",
+      "coordinatesRetained": false,
+      "zipCode": "78665",
+      "beascoutUrl": "https://beascout.scouting.org/units/cf08e73b-95d2-401a-a01b-0a74b36ce4f1",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "114712",
@@ -1929,7 +2263,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "02/09/2026 19:22:00"
+      "lastModified": "02/09/2026 19:22:00",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/ace6f7c6-0d03-49e7-a855-63f43fced7ed",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "369986",
@@ -1952,7 +2290,11 @@
       "meetingEnd": "07:30 PM",
       "website": "www.crew565.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/01/2026 15:46:39"
+      "lastModified": "09/01/2026 15:46:39",
+      "coordinatesRetained": false,
+      "zipCode": "78626",
+      "beascoutUrl": "https://beascout.scouting.org/units/aeb50ec7-b711-4a1d-8a7b-c1ea23bc4422",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "138439",
@@ -1975,7 +2317,11 @@
       "meetingEnd": "07:45 PM",
       "website": "www.pack27roundrock.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 18:39:32"
+      "lastModified": "10/02/2026 18:39:32",
+      "coordinatesRetained": false,
+      "zipCode": "78665",
+      "beascoutUrl": "https://beascout.scouting.org/units/f796fa10-2bf9-4829-a3f7-3ec14217df28",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "296555",
@@ -1998,7 +2344,11 @@
       "meetingEnd": "04:00 PM",
       "website": "https://www.pack97.com/",
       "updatedWithinYear": "Yes",
-      "lastModified": "08/04/2026 19:40:21"
+      "lastModified": "08/04/2026 19:40:21",
+      "coordinatesRetained": false,
+      "zipCode": "78717",
+      "beascoutUrl": "https://beascout.scouting.org/units/25d8430a-09c2-482e-a27b-688fa1eb6889",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "380591",
@@ -2021,7 +2371,11 @@
       "meetingEnd": "06:30 PM",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/04/2026 19:29:11"
+      "lastModified": "10/04/2026 19:29:11",
+      "coordinatesRetained": false,
+      "zipCode": "78750",
+      "beascoutUrl": "https://beascout.scouting.org/units/3fbd4335-6c39-40e8-b275-692687c5c288",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "153376",
@@ -2044,7 +2398,11 @@
       "meetingEnd": "08:00 PM",
       "website": "http://www.bsapack149.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/30/2026 07:38:09"
+      "lastModified": "09/30/2026 07:38:09",
+      "coordinatesRetained": false,
+      "zipCode": "78750",
+      "beascoutUrl": "https://beascout.scouting.org/units/5f6bb96f-9a8e-4081-8070-f8f8cb869fb3",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "34689",
@@ -2067,7 +2425,11 @@
       "meetingEnd": "07:00 PM",
       "website": "pack159.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 19:39:18"
+      "lastModified": "10/02/2026 19:39:18",
+      "coordinatesRetained": false,
+      "zipCode": "78729",
+      "beascoutUrl": "https://beascout.scouting.org/units/b956fdd9-acfc-4b23-a503-4650cf018bc8",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "20872",
@@ -2090,7 +2452,11 @@
       "meetingEnd": "07:45 PM",
       "website": "https://joinaustinpack162.com/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:53"
+      "lastModified": "09/28/2026 19:34:53",
+      "coordinatesRetained": false,
+      "zipCode": "78759",
+      "beascoutUrl": "https://beascout.scouting.org/units/dff3b314-cbeb-4ad1-b54f-13fb861fe954",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "223756",
@@ -2113,7 +2479,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://www.pack-165.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 17:40:52"
+      "lastModified": "10/02/2026 17:40:52",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/18b31af2-0ea8-4699-a4b9-b8c8874f0264",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "211931",
@@ -2136,7 +2506,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/05/2025 19:32:54"
+      "lastModified": "08/05/2025 19:32:54",
+      "coordinatesRetained": false,
+      "zipCode": "76574",
+      "beascoutUrl": "https://beascout.scouting.org/units/0e899f2f-971d-4cfd-86c4-811ba3c5b69e",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "191629",
@@ -2159,7 +2533,11 @@
       "meetingEnd": "",
       "website": "http://pack169.com/",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 00:02:41"
+      "lastModified": "08/30/2024 00:02:41",
+      "coordinatesRetained": false,
+      "zipCode": "78759",
+      "beascoutUrl": "https://beascout.scouting.org/units/f4411017-1a30-4830-9606-472bbc6e98a0",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "206047",
@@ -2182,7 +2560,11 @@
       "meetingEnd": "08:00 PM",
       "website": "pack174.mypack.us",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/16/2026 08:31:08"
+      "lastModified": "09/16/2026 08:31:08",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/4fdfc37b-d40a-468b-9bf5-82212040efb6",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "234170",
@@ -2205,7 +2587,11 @@
       "meetingEnd": "07:00 PM",
       "website": "www.HuttoPack176.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/14/2026 09:31:40"
+      "lastModified": "07/14/2026 09:31:40",
+      "coordinatesRetained": false,
+      "zipCode": "78634",
+      "beascoutUrl": "https://beascout.scouting.org/units/c9080b04-8c50-496d-b51b-74db03cb50fd",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "269795",
@@ -2228,7 +2614,11 @@
       "meetingEnd": "07:45 PM",
       "website": "https://www.pack265.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/06/2026 23:49:27"
+      "lastModified": "10/06/2026 23:49:27",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/4c83731d-137e-4563-ae34-e50fbd2cd69b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "152564",
@@ -2251,7 +2641,11 @@
       "meetingEnd": "",
       "website": "www.pack304.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/29/2025 14:28:13"
+      "lastModified": "12/29/2025 14:28:13",
+      "coordinatesRetained": false,
+      "zipCode": "78665",
+      "beascoutUrl": "https://beascout.scouting.org/units/87767330-e685-4ab8-ae09-e01dd9e26a3b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "329271",
@@ -2274,7 +2668,11 @@
       "meetingEnd": "",
       "website": "",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 00:59:45"
+      "lastModified": "08/30/2024 00:59:45",
+      "coordinatesRetained": false,
+      "zipCode": "78717",
+      "beascoutUrl": "https://beascout.scouting.org/units/48d6d889-e14b-40d8-aea5-82450afb1461",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "54448",
@@ -2297,7 +2695,11 @@
       "meetingEnd": "",
       "website": "www.rrpack365.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 01:09:22"
+      "lastModified": "08/30/2024 01:09:22",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/410abc67-f6b3-4466-b720-4677435820e3",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "275958",
@@ -2320,7 +2722,11 @@
       "meetingEnd": "",
       "website": "https://www.troopwebhostcs.org/Pack371Austin/Index.htm",
       "updatedWithinYear": "No",
-      "lastModified": "09/03/2025 22:32:26"
+      "lastModified": "09/03/2025 22:32:26",
+      "coordinatesRetained": false,
+      "zipCode": "78717",
+      "beascoutUrl": "https://beascout.scouting.org/units/50789b84-7926-4aeb-9d10-6b7edb91783a",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "86614",
@@ -2343,7 +2749,11 @@
       "meetingEnd": "",
       "website": "https://RRPack404.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/09/2026 14:25:28"
+      "lastModified": "09/09/2026 14:25:28",
+      "coordinatesRetained": false,
+      "zipCode": "78664",
+      "beascoutUrl": "https://beascout.scouting.org/units/a1b72162-6de3-4ac4-bcb6-ac0416e91e81",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "247340",
@@ -2366,7 +2776,11 @@
       "meetingEnd": "07:00 PM",
       "website": "http://www.scoutpack562.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/07/2026 14:07:59"
+      "lastModified": "10/07/2026 14:07:59",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/03c263cd-4701-48f0-b945-29f93e061c44",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "198672",
@@ -2389,7 +2803,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://www.troopwebhostcs.org/Pack565RoundRock/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/06/2026 21:46:07"
+      "lastModified": "10/06/2026 21:46:07",
+      "coordinatesRetained": false,
+      "zipCode": "78665",
+      "beascoutUrl": "https://beascout.scouting.org/units/b6f15184-dd31-4af9-a062-ee1c9502e1c1",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "185767",
@@ -2412,7 +2830,11 @@
       "meetingEnd": "",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/12/2026 14:12:55"
+      "lastModified": "09/12/2026 14:12:55",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/577acce9-f252-434a-a207-72c99ca63b51",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "224954",
@@ -2435,7 +2857,11 @@
       "meetingEnd": "",
       "website": "www.wbpack728.com",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 02:15:31"
+      "lastModified": "08/30/2024 02:15:31",
+      "coordinatesRetained": false,
+      "zipCode": "78728",
+      "beascoutUrl": "https://beascout.scouting.org/units/80ddd99b-60e7-4813-9ff0-d4e8f0d7e988",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "39382",
@@ -2458,7 +2884,11 @@
       "meetingEnd": "05:00 PM",
       "website": "https://www.huttopack912.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 19:39:12"
+      "lastModified": "10/02/2026 19:39:12",
+      "coordinatesRetained": false,
+      "zipCode": "78634",
+      "beascoutUrl": "https://beascout.scouting.org/units/cdad930a-8feb-4f18-ae84-5b71cfc81710",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "281110",
@@ -2481,7 +2911,11 @@
       "meetingEnd": "06:30 PM",
       "website": "https://trello.com/b/MInzd62W/bsa-ship-681-welcome-basic-info",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/14/2026 09:37:51"
+      "lastModified": "07/14/2026 09:37:51",
+      "coordinatesRetained": false,
+      "zipCode": "78734",
+      "beascoutUrl": "https://beascout.scouting.org/units/6168202f-eaa0-439d-8458-bd9d90ecec9f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "276455",
@@ -2504,7 +2938,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.ship911.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/23/2026 19:38:44"
+      "lastModified": "09/23/2026 19:38:44",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/81948bdd-cfe0-4daa-8206-b95351bf73a6",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "6203",
@@ -2527,7 +2965,11 @@
       "meetingEnd": "",
       "website": "www.bsatroop27.us",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/08/2026 10:27:05"
+      "lastModified": "09/08/2026 10:27:05",
+      "coordinatesRetained": false,
+      "zipCode": "78665",
+      "beascoutUrl": "https://beascout.scouting.org/units/bbcdc101-2bd5-48e8-bfc4-19a546075a78",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "230187",
@@ -2550,7 +2992,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.troopwebhost.org/Troop97Austin/Index.htm",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 18:46:56"
+      "lastModified": "10/05/2026 18:46:56",
+      "coordinatesRetained": false,
+      "zipCode": "78717",
+      "beascoutUrl": "https://beascout.scouting.org/units/2d8e77f1-c85a-45f6-90a6-8fae0ac919b1",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "280357",
@@ -2573,7 +3019,11 @@
       "meetingEnd": "08:00 PM",
       "website": "http://www.troop146.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/04/2026 11:50:57"
+      "lastModified": "09/04/2026 11:50:57",
+      "coordinatesRetained": false,
+      "zipCode": "78750",
+      "beascoutUrl": "https://beascout.scouting.org/units/50a619da-a6c1-4418-ac68-3d2c5818ea42",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "358162",
@@ -2596,7 +3046,11 @@
       "meetingEnd": "",
       "website": "www.bsatroop154.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/27/2026 14:29:54"
+      "lastModified": "07/27/2026 14:29:54",
+      "coordinatesRetained": false,
+      "zipCode": "78664",
+      "beascoutUrl": "https://beascout.scouting.org/units/5ef62591-2820-44e5-81fb-d6c18a5bb4f6",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "251908",
@@ -2619,7 +3073,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.troop157rr.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/04/2026 13:09:05"
+      "lastModified": "09/04/2026 13:09:05",
+      "coordinatesRetained": false,
+      "zipCode": "78664",
+      "beascoutUrl": "https://beascout.scouting.org/units/2b8c7898-28ca-44a1-a988-a797ae3811a5",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "88122",
@@ -2642,7 +3100,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.troopwebhost.org/Troop159Austin/Index.htm",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:31"
+      "lastModified": "09/28/2026 19:34:31",
+      "coordinatesRetained": false,
+      "zipCode": "78726",
+      "beascoutUrl": "https://beascout.scouting.org/units/c23779aa-5f42-4e57-93e5-013a1c104d01",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "276810",
@@ -2665,7 +3127,11 @@
       "meetingEnd": "08:00 PM",
       "website": "https://troop162austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 19:41:15"
+      "lastModified": "10/05/2026 19:41:15",
+      "coordinatesRetained": false,
+      "zipCode": "78750",
+      "beascoutUrl": "https://beascout.scouting.org/units/95748463-4a1c-4e29-af23-4f5a83ac1f31",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "143716",
@@ -2688,7 +3154,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.troop165.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 11:40:07"
+      "lastModified": "10/02/2026 11:40:07",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/bdc3f2ab-0cde-48bd-a50a-334f05da9243",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "309070",
@@ -2711,7 +3181,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://beascout.scouting.org/units/ea2a5092-bfa7-4d39-b37e-1b036015b988",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:54"
+      "lastModified": "09/28/2026 19:34:54",
+      "coordinatesRetained": false,
+      "zipCode": "78729",
+      "beascoutUrl": "https://beascout.scouting.org/units/ea2a5092-bfa7-4d39-b37e-1b036015b988",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "180172",
@@ -2734,7 +3208,11 @@
       "meetingEnd": "08:30 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 20:41:24"
+      "lastModified": "10/01/2026 20:41:24",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/61164bad-f86e-40fb-8035-64d072c9b72b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "352155",
@@ -2757,7 +3235,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.facebook.com/HuttoBSATroop350/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/04/2026 08:53:47"
+      "lastModified": "09/04/2026 08:53:47",
+      "coordinatesRetained": false,
+      "zipCode": "78634",
+      "beascoutUrl": "https://beascout.scouting.org/units/a280d7cd-268f-4351-b9b0-2290930ccb96",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "32333",
@@ -2780,7 +3262,11 @@
       "meetingEnd": "",
       "website": "https://www.troopwebhost.org/Troop365RoundRock/Index.htm",
       "updatedWithinYear": "No",
-      "lastModified": "12/09/2024 09:18:14"
+      "lastModified": "12/09/2024 09:18:14",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/08fad311-736c-404f-9039-655a30b7e821",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "286119",
@@ -2803,7 +3289,11 @@
       "meetingEnd": "08:00 PM",
       "website": "https://www.troopwebhost.org/Troop371Austin/Index.htm",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/02/2026 21:00:49"
+      "lastModified": "09/02/2026 21:00:49",
+      "coordinatesRetained": false,
+      "zipCode": "78717",
+      "beascoutUrl": "https://beascout.scouting.org/units/0cb276e5-8fca-4a18-ab15-8bae7aca9969",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "264061",
@@ -2826,7 +3316,11 @@
       "meetingEnd": "",
       "website": "http://www.scoutroom.net/troop513",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 13:22:52"
+      "lastModified": "08/30/2024 13:22:52",
+      "coordinatesRetained": false,
+      "zipCode": "78750",
+      "beascoutUrl": "https://beascout.scouting.org/units/ff4a26f3-3c6a-4f6c-baf8-6f11f2bc424e",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "154244",
@@ -2849,7 +3343,11 @@
       "meetingEnd": "08:30 PM",
       "website": "http://www.BSAtroop562.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/07/2026 13:37:30"
+      "lastModified": "10/07/2026 13:37:30",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/128c9aaf-40a2-4d19-9f0b-24814a9193d2",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "334171",
@@ -2872,7 +3370,11 @@
       "meetingEnd": "",
       "website": "www.troop565.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/23/2025 09:20:18"
+      "lastModified": "12/23/2025 09:20:18",
+      "coordinatesRetained": false,
+      "zipCode": "78665",
+      "beascoutUrl": "https://beascout.scouting.org/units/8e283026-931c-4c53-b630-b1d4bc75aba2",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "359128",
@@ -2895,7 +3397,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.troopwebhost.org/Troop3451RoundRock/Index.htm",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/03/2026 21:09:20"
+      "lastModified": "09/03/2026 21:09:20",
+      "coordinatesRetained": false,
+      "zipCode": "78664",
+      "beascoutUrl": "https://beascout.scouting.org/units/0148f9f5-ec85-4a12-a93d-3f0009eb0eec",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "377556",
@@ -2918,7 +3424,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.troop3925.mytroop.us",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 19:41:11"
+      "lastModified": "10/05/2026 19:41:11",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/4988538a-1305-49a9-9637-5bfe82cccd43",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "357907",
@@ -2941,7 +3451,11 @@
       "meetingEnd": "08:10 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/04/2026 17:39:37"
+      "lastModified": "10/04/2026 17:39:37",
+      "coordinatesRetained": false,
+      "zipCode": "78750",
+      "beascoutUrl": "https://beascout.scouting.org/units/ae63ca4f-49b9-4495-a86e-67b43e471c4c",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "379305",
@@ -2964,7 +3478,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.troopwebhost.org/troop5621roundrock/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/07/2026 14:03:03"
+      "lastModified": "10/07/2026 14:03:03",
+      "coordinatesRetained": false,
+      "zipCode": "78681",
+      "beascoutUrl": "https://beascout.scouting.org/units/7baeada0-fdbe-4e3b-9199-a12b0a52a2b8",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "374352",
@@ -2984,7 +3502,11 @@
       "meetingEnd": "02:00 PM",
       "website": "www.troop5651.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 17:40:49"
+      "lastModified": "10/02/2026 17:40:49",
+      "coordinatesRetained": false,
+      "zipCode": "78626",
+      "beascoutUrl": "https://beascout.scouting.org/units/6ae6773b-d3fd-43b1-88ce-1b99fd9bc231",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "52799",
@@ -3007,7 +3529,11 @@
       "meetingEnd": "07:30 PM",
       "website": "www.facebook.com/cspack180",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:37"
+      "lastModified": "09/28/2026 19:34:37",
+      "coordinatesRetained": false,
+      "zipCode": "78602",
+      "beascoutUrl": "https://beascout.scouting.org/units/284c6fd3-a061-46a6-b327-d45b80cbdb9e",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "267351",
@@ -3030,7 +3556,11 @@
       "meetingEnd": "",
       "website": "https://www.facebook.com/pack182",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/08/2026 10:35:16"
+      "lastModified": "09/08/2026 10:35:16",
+      "coordinatesRetained": false,
+      "zipCode": "78621",
+      "beascoutUrl": "https://beascout.scouting.org/units/07bb908a-69be-4ec2-b9f0-41c8638a0aed",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "157862",
@@ -3053,7 +3583,11 @@
       "meetingEnd": "08:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 18:39:20"
+      "lastModified": "10/02/2026 18:39:20",
+      "coordinatesRetained": false,
+      "zipCode": "78957",
+      "beascoutUrl": "https://beascout.scouting.org/units/40487bff-639b-4f95-8dc7-79960fc77aab",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "218",
@@ -3076,7 +3610,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://www.facebook.com/Cub-Scout-Pack-471-Elgin-TX-213745368654788",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 11:39:57"
+      "lastModified": "10/05/2026 11:39:57",
+      "coordinatesRetained": false,
+      "zipCode": "78621",
+      "beascoutUrl": "https://beascout.scouting.org/units/5f79222e-d089-43e8-a2e3-545251b4bf2d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "379664",
@@ -3099,7 +3637,11 @@
       "meetingEnd": "08:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 10:39:53"
+      "lastModified": "10/02/2026 10:39:53",
+      "coordinatesRetained": false,
+      "zipCode": "78662",
+      "beascoutUrl": "https://beascout.scouting.org/units/b22bf1f5-f7ef-4c26-a8bb-60d77164cf5e",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "358129",
@@ -3122,7 +3664,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.facebook.com/groups/2252532158149898",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/29/2026 18:37:01"
+      "lastModified": "09/29/2026 18:37:01",
+      "coordinatesRetained": false,
+      "zipCode": "78612",
+      "beascoutUrl": "https://beascout.scouting.org/units/a5f883f5-ef55-4a6d-affb-4b3b6b20a744",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "212638",
@@ -3145,7 +3691,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 11:18:39"
+      "lastModified": "08/30/2024 11:18:39",
+      "coordinatesRetained": false,
+      "zipCode": "78947",
+      "beascoutUrl": "https://beascout.scouting.org/units/bfd65a6c-5e53-4064-960b-1ceceea0b7e9",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "75011",
@@ -3168,7 +3718,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 11:31:31"
+      "lastModified": "08/30/2024 11:31:31",
+      "coordinatesRetained": false,
+      "zipCode": "78621",
+      "beascoutUrl": "https://beascout.scouting.org/units/5f116a05-6de8-4ae2-ad07-81715f3752eb",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "173903",
@@ -3191,7 +3745,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/04/2026 20:53:04"
+      "lastModified": "10/04/2026 20:53:04",
+      "coordinatesRetained": false,
+      "zipCode": "78957",
+      "beascoutUrl": "https://beascout.scouting.org/units/84b19707-ef6a-4adc-9460-4545113521c3",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "196786",
@@ -3214,7 +3772,11 @@
       "meetingEnd": "07:30 PM",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/03/2026 20:38:52"
+      "lastModified": "09/03/2026 20:38:52",
+      "coordinatesRetained": false,
+      "zipCode": "78945",
+      "beascoutUrl": "https://beascout.scouting.org/units/d1ddac09-c7a0-47c5-acdb-5fffad1ca0e5",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "138582",
@@ -3237,7 +3799,11 @@
       "meetingEnd": "",
       "website": "https://www.facebook.com/BSAT472TX",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/03/2026 19:43:32"
+      "lastModified": "09/03/2026 19:43:32",
+      "coordinatesRetained": false,
+      "zipCode": "78621",
+      "beascoutUrl": "https://beascout.scouting.org/units/4d1b48b3-7ce0-4695-8b30-8f2951ba7c49",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "358159",
@@ -3260,7 +3826,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.facebook.com/Troop473",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:20"
+      "lastModified": "09/28/2026 19:34:20",
+      "coordinatesRetained": false,
+      "zipCode": "78621",
+      "beascoutUrl": "https://beascout.scouting.org/units/76fbca65-46f1-473f-bcc1-418f7e1cba6d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "163575",
@@ -3283,7 +3853,11 @@
       "meetingEnd": "08:00 PM",
       "website": "none",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/29/2026 11:36:43"
+      "lastModified": "09/29/2026 11:36:43",
+      "coordinatesRetained": false,
+      "zipCode": "78612",
+      "beascoutUrl": "https://beascout.scouting.org/units/e8fb5e1e-d2b8-458a-b793-5504a146e8a6",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "164943",
@@ -3306,7 +3880,11 @@
       "meetingEnd": "08:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/09/2026 19:49:32"
+      "lastModified": "10/09/2026 19:49:32",
+      "coordinatesRetained": false,
+      "zipCode": "78602",
+      "beascoutUrl": "https://beascout.scouting.org/units/6656684b-798d-48b2-aeef-c3684a3a6b95",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "227088",
@@ -3329,7 +3907,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "02/28/2026 01:50:00"
+      "lastModified": "02/28/2026 01:50:00",
+      "coordinatesRetained": false,
+      "zipCode": "78628",
+      "beascoutUrl": "https://beascout.scouting.org/units/2c59f625-e461-4dad-965a-b2599d485ca8",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "289197",
@@ -3352,7 +3934,11 @@
       "meetingEnd": "",
       "website": "https://www.austintexas.gov/department/explorer-post-247",
       "updatedWithinYear": "No",
-      "lastModified": "03/31/2025 17:56:45"
+      "lastModified": "03/31/2025 17:56:45",
+      "coordinatesRetained": false,
+      "zipCode": "78725",
+      "beascoutUrl": "https://beascout.scouting.org/units/cf11f33b-290d-4083-a833-5871024a492b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "380370",
@@ -3375,7 +3961,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/10/2026 08:00:58"
+      "lastModified": "07/10/2026 08:00:58",
+      "coordinatesRetained": false,
+      "zipCode": "78669",
+      "beascoutUrl": "https://beascout.scouting.org/units/4a1ba7da-e030-4c1c-b7ce-139ad9c606ae",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "263581",
@@ -3398,7 +3988,11 @@
       "meetingEnd": "",
       "website": "https://www.austintexas.gov/afdexplorers370",
       "updatedWithinYear": "Yes",
-      "lastModified": "02/28/2026 01:50:00"
+      "lastModified": "02/28/2026 01:50:00",
+      "coordinatesRetained": false,
+      "zipCode": "78744",
+      "beascoutUrl": "https://beascout.scouting.org/units/b562d1c6-fea9-413b-a406-85f5ff603965",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "146415",
@@ -3421,7 +4015,11 @@
       "meetingEnd": "",
       "website": "https://www.roundrocktexas.gov/news/experience-round-rock-police-explorers-post-1096/",
       "updatedWithinYear": "Yes",
-      "lastModified": "02/28/2026 01:50:00"
+      "lastModified": "02/28/2026 01:50:00",
+      "coordinatesRetained": false,
+      "zipCode": "78665",
+      "beascoutUrl": "https://beascout.scouting.org/units/a1d3dcb3-a679-4118-ae21-06d19727391e",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "378652",
@@ -3441,7 +4039,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": ""
+      "lastModified": "",
+      "coordinatesRetained": false,
+      "zipCode": "78734",
+      "beascoutUrl": "https://beascout.scouting.org/units/10ea1281-9354-4eaa-a29f-0ff51e12d176",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "338004",
@@ -3464,7 +4066,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "08/12/2026 15:36:09"
+      "lastModified": "08/12/2026 15:36:09",
+      "coordinatesRetained": false,
+      "zipCode": "78626",
+      "beascoutUrl": "https://beascout.scouting.org/units/e3048ca0-8fe5-4f90-9979-3bc09d11279b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "354718",
@@ -3487,7 +4093,11 @@
       "meetingEnd": "",
       "website": "https://www.andersonrobotics.org/",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 09:34:34"
+      "lastModified": "08/30/2024 09:34:34",
+      "coordinatesRetained": false,
+      "zipCode": "78759",
+      "beascoutUrl": "https://beascout.scouting.org/units/467ac1a1-613c-49b8-9a97-18ce6152a311",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "346623",
@@ -3510,7 +4120,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "02/25/2026 21:33:45"
+      "lastModified": "02/25/2026 21:33:45",
+      "coordinatesRetained": false,
+      "zipCode": "78634",
+      "beascoutUrl": "https://beascout.scouting.org/units/45d4b0e3-dc88-40ec-aa5c-184aeff4bc4c",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "243576",
@@ -3533,7 +4147,11 @@
       "meetingEnd": "",
       "website": "https://www.bsacac.org/join/exploring/",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 09:37:11"
+      "lastModified": "08/30/2024 09:37:11",
+      "coordinatesRetained": false,
+      "zipCode": "78666",
+      "beascoutUrl": "https://beascout.scouting.org/units/98e7fb09-98cc-4d54-90e4-7389f4a54474",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "92532",
@@ -3556,7 +4174,11 @@
       "meetingEnd": "06:00 PM",
       "website": "https://cubscoutpack135fbg.wixsite.com/my-site",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 17:40:54"
+      "lastModified": "10/02/2026 17:40:54",
+      "coordinatesRetained": false,
+      "zipCode": "78624",
+      "beascoutUrl": "https://beascout.scouting.org/units/4b488301-563a-4694-bd5c-432bf3242eda",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "375709",
@@ -3579,7 +4201,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "09/11/2025 12:41:28"
+      "lastModified": "09/11/2025 12:41:28",
+      "coordinatesRetained": false,
+      "zipCode": "78631",
+      "beascoutUrl": "https://beascout.scouting.org/units/2596d08f-c1cb-4258-a5be-d4581d21dff0",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "370100",
@@ -3602,7 +4228,11 @@
       "meetingEnd": "",
       "website": "www.hillcountrydistrict.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/30/2026 12:08:35"
+      "lastModified": "09/30/2026 12:08:35",
+      "coordinatesRetained": false,
+      "zipCode": "76856",
+      "beascoutUrl": "https://beascout.scouting.org/units/d5555543-aa71-4914-817c-123f757661f7",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "182950",
@@ -3625,7 +4255,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "02/28/2026 01:50:00"
+      "lastModified": "02/28/2026 01:50:00",
+      "coordinatesRetained": false,
+      "zipCode": "78611",
+      "beascoutUrl": "https://beascout.scouting.org/units/5d0b934a-ae48-43f5-99e7-2da9aafd13a7",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "196139",
@@ -3648,7 +4282,11 @@
       "meetingEnd": "07:00 PM",
       "website": "www.hillcountrydistrict.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/30/2026 12:09:23"
+      "lastModified": "09/30/2026 12:09:23",
+      "coordinatesRetained": false,
+      "zipCode": "78654",
+      "beascoutUrl": "https://beascout.scouting.org/units/4e9e47d4-c21f-4fa2-8dc1-be74e218c315",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "377749",
@@ -3671,7 +4309,11 @@
       "meetingEnd": "06:00 PM",
       "website": "https://www.hillcountrydistrict.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/29/2026 12:51:10"
+      "lastModified": "09/29/2026 12:51:10",
+      "coordinatesRetained": false,
+      "zipCode": "78636",
+      "beascoutUrl": "https://beascout.scouting.org/units/f9ea121a-0d5d-4566-aa9d-792348fd5bf0",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "260760",
@@ -3694,7 +4336,11 @@
       "meetingEnd": "",
       "website": "www.hillcountrydistrict.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/29/2026 11:42:11"
+      "lastModified": "09/29/2026 11:42:11",
+      "coordinatesRetained": false,
+      "zipCode": "78643",
+      "beascoutUrl": "https://beascout.scouting.org/units/d32d4545-130d-4511-af18-dddabd60fea4",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "81281",
@@ -3717,7 +4363,11 @@
       "meetingEnd": "06:30 PM",
       "website": "www.hillcountrydistrict.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/06/2026 08:40:58"
+      "lastModified": "10/06/2026 08:40:58",
+      "coordinatesRetained": false,
+      "zipCode": "78606",
+      "beascoutUrl": "https://beascout.scouting.org/units/976f50cd-dd61-4a9a-a1ad-0c24bcc1c65a",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "259620",
@@ -3740,7 +4390,11 @@
       "meetingEnd": "",
       "website": "https://www.fredumc.org/scouts",
       "updatedWithinYear": "No",
-      "lastModified": "08/18/2025 10:25:26"
+      "lastModified": "08/18/2025 10:25:26",
+      "coordinatesRetained": false,
+      "zipCode": "78624",
+      "beascoutUrl": "https://beascout.scouting.org/units/8d5808a5-0190-4663-b031-99b4c69b2f5f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "135133",
@@ -3763,7 +4417,11 @@
       "meetingEnd": "08:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 18:39:21"
+      "lastModified": "10/02/2026 18:39:21",
+      "coordinatesRetained": false,
+      "zipCode": "78624",
+      "beascoutUrl": "https://beascout.scouting.org/units/087f1d7f-25e9-4cfc-8b55-fb31bc3a418a",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "150065",
@@ -3786,7 +4444,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "12/29/2024 12:19:08"
+      "lastModified": "12/29/2024 12:19:08",
+      "coordinatesRetained": false,
+      "zipCode": "78631",
+      "beascoutUrl": "https://beascout.scouting.org/units/893badda-d3bc-4d91-ab90-9c54f028daa9",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "39914",
@@ -3809,7 +4471,11 @@
       "meetingEnd": "",
       "website": "https://www.facebook.com/Troop281MasonTX",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 11:58:32"
+      "lastModified": "08/30/2024 11:58:32",
+      "coordinatesRetained": false,
+      "zipCode": "76856",
+      "beascoutUrl": "https://beascout.scouting.org/units/e3428e34-d64e-4aaa-aaff-5170aba6b415",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "49044",
@@ -3832,7 +4498,11 @@
       "meetingEnd": "08:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/04/2026 20:39:53"
+      "lastModified": "10/04/2026 20:39:53",
+      "coordinatesRetained": false,
+      "zipCode": "78654",
+      "beascoutUrl": "https://beascout.scouting.org/units/0c1cbda8-78c0-410a-a0be-a6b8304e3748",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "178600",
@@ -3855,7 +4525,11 @@
       "meetingEnd": "07:00 PM",
       "website": "http://www.blancoscouting.com/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 19:34:25"
+      "lastModified": "10/01/2026 19:34:25",
+      "coordinatesRetained": false,
+      "zipCode": "78606",
+      "beascoutUrl": "https://beascout.scouting.org/units/d1968fcd-a00e-43b9-ab60-7a315fc70e86",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "380916",
@@ -3875,7 +4549,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": ""
+      "lastModified": "",
+      "coordinatesRetained": false,
+      "zipCode": "78611",
+      "beascoutUrl": "https://beascout.scouting.org/units/075ee039-55a0-4223-8640-cb053f1dcb0d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "370311",
@@ -3898,7 +4576,11 @@
       "meetingEnd": "08:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 18:39:20"
+      "lastModified": "10/02/2026 18:39:20",
+      "coordinatesRetained": false,
+      "zipCode": "78654",
+      "beascoutUrl": "https://beascout.scouting.org/units/3edf6d5e-76d2-410e-8300-c6992f88de5e",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "277213",
@@ -3921,7 +4603,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/22/2024 15:10:35"
+      "lastModified": "08/22/2024 15:10:35",
+      "coordinatesRetained": false,
+      "zipCode": "78644",
+      "beascoutUrl": "https://beascout.scouting.org/units/1a98477e-4bee-4df4-97bd-af0a64099f67",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "365983",
@@ -3944,7 +4630,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/22/2024 15:12:19"
+      "lastModified": "08/22/2024 15:12:19",
+      "coordinatesRetained": false,
+      "zipCode": "78629",
+      "beascoutUrl": "https://beascout.scouting.org/units/d0d00a2e-e4a9-4b26-a8ce-fd8d15399a9b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "372734",
@@ -3967,7 +4657,11 @@
       "meetingEnd": "07:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 19:39:04"
+      "lastModified": "10/02/2026 19:39:04",
+      "coordinatesRetained": false,
+      "zipCode": "78648",
+      "beascoutUrl": "https://beascout.scouting.org/units/ccf82119-4bb6-471d-86bf-2bbecfbafd06",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "9792",
@@ -3990,7 +4684,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "09/17/2025 17:14:13"
+      "lastModified": "09/17/2025 17:14:13",
+      "coordinatesRetained": false,
+      "zipCode": "78644",
+      "beascoutUrl": "https://beascout.scouting.org/units/b7294876-ee8c-4da4-b715-3573a9b6e927",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "343426",
@@ -4013,7 +4711,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://www.facebook.com/HallettsvilleCubScouts/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:33:25"
+      "lastModified": "09/28/2026 19:33:25",
+      "coordinatesRetained": false,
+      "zipCode": "77964",
+      "beascoutUrl": "https://beascout.scouting.org/units/bc3be567-b8da-4834-af40-ae9e89eb548b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "11695",
@@ -4036,7 +4738,11 @@
       "meetingEnd": "07:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:33:19"
+      "lastModified": "09/28/2026 19:33:19",
+      "coordinatesRetained": false,
+      "zipCode": "77995",
+      "beascoutUrl": "https://beascout.scouting.org/units/2091b6ee-00b7-49e0-8a0c-cc0f063ae282",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "35610",
@@ -4059,7 +4765,11 @@
       "meetingEnd": "07:00 PM",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:43"
+      "lastModified": "09/28/2026 19:34:43",
+      "coordinatesRetained": false,
+      "zipCode": "77984",
+      "beascoutUrl": "https://beascout.scouting.org/units/94c1d41b-8cb6-4b32-b3be-dd5199f25803",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "221576",
@@ -4082,7 +4792,11 @@
       "meetingEnd": "07:30 PM",
       "website": "www.pack261.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:32:23"
+      "lastModified": "09/28/2026 19:32:23",
+      "coordinatesRetained": false,
+      "zipCode": "78629",
+      "beascoutUrl": "https://beascout.scouting.org/units/5a753b73-ed00-482c-ace5-3475a44f9fec",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "377618",
@@ -4105,7 +4819,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "07/02/2025 12:36:34"
+      "lastModified": "07/02/2025 12:36:34",
+      "coordinatesRetained": false,
+      "zipCode": "77995",
+      "beascoutUrl": "https://beascout.scouting.org/units/ec801498-c10d-4dfa-b165-5776ca897e61",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "378258",
@@ -4128,7 +4846,11 @@
       "meetingEnd": "08:15 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/06/2026 18:41:14"
+      "lastModified": "10/06/2026 18:41:14",
+      "coordinatesRetained": false,
+      "zipCode": "78648",
+      "beascoutUrl": "https://beascout.scouting.org/units/6f645711-629d-4ad2-806f-61d12644947c",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "225681",
@@ -4151,7 +4873,11 @@
       "meetingEnd": "07:55 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:33:21"
+      "lastModified": "09/28/2026 19:33:21",
+      "coordinatesRetained": false,
+      "zipCode": "78644",
+      "beascoutUrl": "https://beascout.scouting.org/units/cb1ea6e0-e854-49bb-82cf-c67c944334cc",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "247370",
@@ -4174,7 +4900,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 11:30:19"
+      "lastModified": "08/30/2024 11:30:19",
+      "coordinatesRetained": false,
+      "zipCode": "78644",
+      "beascoutUrl": "https://beascout.scouting.org/units/8f9c83ce-beca-4ed8-b101-430a60b4c611",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "367575",
@@ -4197,7 +4927,11 @@
       "meetingEnd": "",
       "website": "https://www.facebook.com/HallettsvilleBoyScouts",
       "updatedWithinYear": "No",
-      "lastModified": "12/03/2024 10:56:29"
+      "lastModified": "12/03/2024 10:56:29",
+      "coordinatesRetained": false,
+      "zipCode": "77964",
+      "beascoutUrl": "https://beascout.scouting.org/units/0a17a16b-f2fb-4c37-8f83-82685a24d90f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "133547",
@@ -4220,7 +4954,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 11:46:04"
+      "lastModified": "08/30/2024 11:46:04",
+      "coordinatesRetained": false,
+      "zipCode": "77995",
+      "beascoutUrl": "https://beascout.scouting.org/units/9dc711f4-d71b-4da4-a779-0fab5dc655f6",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "312260",
@@ -4243,7 +4981,11 @@
       "meetingEnd": "05:30 PM",
       "website": "www.shinertroop231.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 19:53:48"
+      "lastModified": "10/01/2026 19:53:48",
+      "coordinatesRetained": false,
+      "zipCode": "77984",
+      "beascoutUrl": "https://beascout.scouting.org/units/2663a4a6-034c-402b-9fa9-692fc5d2c137",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "94245",
@@ -4266,7 +5008,11 @@
       "meetingEnd": "07:30 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:11"
+      "lastModified": "09/28/2026 19:34:11",
+      "coordinatesRetained": false,
+      "zipCode": "78629",
+      "beascoutUrl": "https://beascout.scouting.org/units/7a876f5c-1063-4271-a181-57bb776fe13d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "371982",
@@ -4289,7 +5035,11 @@
       "meetingEnd": "08:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/03/2026 10:40:51"
+      "lastModified": "10/03/2026 10:40:51",
+      "coordinatesRetained": false,
+      "zipCode": "78644",
+      "beascoutUrl": "https://beascout.scouting.org/units/3fc8ef43-ab6b-4e0d-aeb4-20f8aa9a3f4d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "301699",
@@ -4312,7 +5062,11 @@
       "meetingEnd": "08:30 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/06/2026 08:05:42"
+      "lastModified": "09/06/2026 08:05:42",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/dcfd1f5a-3eb3-4761-8245-5463a94a2ced",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "376908",
@@ -4335,7 +5089,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/18/2026 12:39:02"
+      "lastModified": "09/18/2026 12:39:02",
+      "coordinatesRetained": false,
+      "zipCode": "78641",
+      "beascoutUrl": "https://beascout.scouting.org/units/12953254-8da6-4d8b-b554-282ab2aa81f7",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "120323",
@@ -4358,7 +5116,11 @@
       "meetingEnd": "08:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/12/2026 18:11:14"
+      "lastModified": "07/12/2026 18:11:14",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/bbe52f82-74c6-4def-9feb-e8ae845e38e8",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "284950",
@@ -4381,7 +5143,11 @@
       "meetingEnd": "07:30 PM",
       "website": "pack160leander.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/04/2026 16:18:53"
+      "lastModified": "09/04/2026 16:18:53",
+      "coordinatesRetained": false,
+      "zipCode": "78641",
+      "beascoutUrl": "https://beascout.scouting.org/units/84e0747d-092c-4966-81e3-1ee8e1dd8ebf",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "245952",
@@ -4404,7 +5170,11 @@
       "meetingEnd": "07:30 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/10/2026 14:31:46"
+      "lastModified": "07/10/2026 14:31:46",
+      "coordinatesRetained": false,
+      "zipCode": "78641",
+      "beascoutUrl": "https://beascout.scouting.org/units/65de9a5c-576f-4b2c-887b-442a5e1e0f55",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "226199",
@@ -4427,7 +5197,11 @@
       "meetingEnd": "07:00 PM",
       "website": "www.pack171.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 19:38:24"
+      "lastModified": "10/01/2026 19:38:24",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/2906ffcf-9e1d-4d26-84ad-362a26d6bc03",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "133037",
@@ -4450,7 +5224,11 @@
       "meetingEnd": "03:30 PM",
       "website": "https://sites.google.com/view/cubscoutpack0172cedarpark/home-page",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:33:14"
+      "lastModified": "09/28/2026 19:33:14",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/3e5bb079-c7ce-44ea-b2ac-315a899d98d0",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "133322",
@@ -4473,7 +5251,11 @@
       "meetingEnd": "",
       "website": "https://austinpack201.org/",
       "updatedWithinYear": "No",
-      "lastModified": "08/11/2025 14:14:01"
+      "lastModified": "08/11/2025 14:14:01",
+      "coordinatesRetained": false,
+      "zipCode": "78732",
+      "beascoutUrl": "https://beascout.scouting.org/units/a198421c-d288-4dc7-80e8-216d250da7d0",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "53204",
@@ -4496,7 +5278,11 @@
       "meetingEnd": "08:00 PM",
       "website": "https://www.troopwebhostcs.org/Pack233Leander/Index.htm",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 19:38:12"
+      "lastModified": "10/01/2026 19:38:12",
+      "coordinatesRetained": false,
+      "zipCode": "78641",
+      "beascoutUrl": "https://beascout.scouting.org/units/44bb9e3d-de11-4102-aa2c-a4d2ed0354a8",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "372603",
@@ -4519,7 +5305,11 @@
       "meetingEnd": "03:30 PM",
       "website": "https://sites.google.com/view/icbcboysscout799/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 18:39:32"
+      "lastModified": "10/02/2026 18:39:32",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/da48fccd-a878-4cb5-a766-feb61e6ec4a0",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "361819",
@@ -4542,7 +5332,11 @@
       "meetingEnd": "",
       "website": "troopwebhostcs.org/Pack1277CedarPark",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/18/2025 11:49:19"
+      "lastModified": "12/18/2025 11:49:19",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/921d52f0-0e50-4dbf-bb69-56461be502aa",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "240899",
@@ -4565,7 +5359,11 @@
       "meetingEnd": "",
       "website": "https://pack1720.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "05/27/2026 19:34:19"
+      "lastModified": "05/27/2026 19:34:19",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/bc83c9f9-5b5e-4a98-aa45-5ebe5dcae657",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "174992",
@@ -4588,7 +5386,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://www.pack2008.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/06/2026 20:47:47"
+      "lastModified": "10/06/2026 20:47:47",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/002e91e0-0312-4479-bc29-c1617d85dfc6",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "360207",
@@ -4611,7 +5413,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.troop16leander.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "08/21/2026 11:56:42"
+      "lastModified": "08/21/2026 11:56:42",
+      "coordinatesRetained": false,
+      "zipCode": "78641",
+      "beascoutUrl": "https://beascout.scouting.org/units/5c0f63a0-4bb5-47b1-9026-e05401fce614",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "364537",
@@ -4634,7 +5440,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.troop16leander.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "08/21/2026 11:57:04"
+      "lastModified": "08/21/2026 11:57:04",
+      "coordinatesRetained": false,
+      "zipCode": "78641",
+      "beascoutUrl": "https://beascout.scouting.org/units/bdad01a4-d383-4933-93d1-b6b9c67e2a77",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "349002",
@@ -4657,7 +5467,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://troop-150.trooptrack.com/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/21/2026 08:06:09"
+      "lastModified": "09/21/2026 08:06:09",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/e7914635-3677-42f1-adf0-3e3e002907de",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "327593",
@@ -4680,7 +5494,11 @@
       "meetingEnd": "08:30 PM",
       "website": "http://www.troopwebhost.org/Troop161Leander/Index.htm",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/29/2026 18:37:07"
+      "lastModified": "09/29/2026 18:37:07",
+      "coordinatesRetained": false,
+      "zipCode": "78641",
+      "beascoutUrl": "https://beascout.scouting.org/units/9f85a01e-0361-4ce5-960d-619773c214d5",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "162541",
@@ -4703,7 +5521,11 @@
       "meetingEnd": "",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/18/2025 06:40:43"
+      "lastModified": "12/18/2025 06:40:43",
+      "coordinatesRetained": false,
+      "zipCode": "78641",
+      "beascoutUrl": "https://beascout.scouting.org/units/4dbde87f-23c4-4543-af12-29ce5ee63b6e",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "124568",
@@ -4726,7 +5548,11 @@
       "meetingEnd": "",
       "website": "https://www.facebook.com/Lagovistaboyscoutstroop198/",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 11:35:42"
+      "lastModified": "08/30/2024 11:35:42",
+      "coordinatesRetained": false,
+      "zipCode": "78645",
+      "beascoutUrl": "https://beascout.scouting.org/units/cfc15b3a-048f-4f4e-a4b6-f82d15eb54b1",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "326769",
@@ -4749,7 +5575,11 @@
       "meetingEnd": "08:15 PM",
       "website": "https://www.troop-201.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/03/2026 20:27:46"
+      "lastModified": "09/03/2026 20:27:46",
+      "coordinatesRetained": false,
+      "zipCode": "78732",
+      "beascoutUrl": "https://beascout.scouting.org/units/4f6a731c-676f-4c60-a02c-b27bae2a9eda",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "89392",
@@ -4772,7 +5602,11 @@
       "meetingEnd": "",
       "website": "http://www.troopwebhost.org/Troop202CedarPark/Index.htm",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/10/2026 12:04:54"
+      "lastModified": "07/10/2026 12:04:54",
+      "coordinatesRetained": false,
+      "zipCode": "78641",
+      "beascoutUrl": "https://beascout.scouting.org/units/9b6a8045-00ec-4071-868f-c2c43d32b55b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "357984",
@@ -4795,7 +5629,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.troopwebhost.org/Troop219CedarPark/Index.htm",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:33:06"
+      "lastModified": "09/28/2026 19:33:06",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/80b7d12e-ae8c-493c-838f-791a971630b5",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "349041",
@@ -4818,7 +5656,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.troops258and358.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/08/2026 19:53:16"
+      "lastModified": "09/08/2026 19:53:16",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/51a93e41-dd9c-4351-960c-b63c31c61669",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "260856",
@@ -4841,7 +5683,11 @@
       "meetingEnd": "",
       "website": "https://www.troopwebhost.org/Troop271CedarPark/Index.htm",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 11:56:19"
+      "lastModified": "08/30/2024 11:56:19",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/75906743-5bcb-42ea-8c66-387eb8170eb7",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "358099",
@@ -4864,7 +5710,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://troops258and358.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/15/2026 19:38:37"
+      "lastModified": "09/15/2026 19:38:37",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/570fd815-ca65-4723-8da0-541d52e52463",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "372591",
@@ -4887,7 +5737,11 @@
       "meetingEnd": "11:00 AM",
       "website": "https://sites.google.com/view/icbcboysscout799",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:33:48"
+      "lastModified": "09/28/2026 19:33:48",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/da94abc5-8fab-4738-a234-b1de6039508d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "134599",
@@ -4910,7 +5764,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.troop2008.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/04/2026 12:00:48"
+      "lastModified": "09/04/2026 12:00:48",
+      "coordinatesRetained": false,
+      "zipCode": "78613",
+      "beascoutUrl": "https://beascout.scouting.org/units/07052209-ce5c-4f50-86e8-c9a85c726f3d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "267753",
@@ -4933,7 +5791,11 @@
       "meetingEnd": "08:30 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/21/2026 18:20:47"
+      "lastModified": "09/21/2026 18:20:47",
+      "coordinatesRetained": false,
+      "zipCode": "78620",
+      "beascoutUrl": "https://beascout.scouting.org/units/08bd3608-9c52-49f3-b1d3-0661a64f423a",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "351643",
@@ -4956,7 +5818,11 @@
       "meetingEnd": "05:00 PM",
       "website": "https://www.pack4ds.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 18:39:33"
+      "lastModified": "10/02/2026 18:39:33",
+      "coordinatesRetained": false,
+      "zipCode": "78737",
+      "beascoutUrl": "https://beascout.scouting.org/units/6252ce8e-5d30-483b-9810-8c700be84de5",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "194821",
@@ -4979,7 +5845,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://www.smtxpack18.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 19:39:12"
+      "lastModified": "10/02/2026 19:39:12",
+      "coordinatesRetained": false,
+      "zipCode": "78666",
+      "beascoutUrl": "https://beascout.scouting.org/units/f3ea6d07-ce1c-4b61-9b7e-29ed8113228c",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "179965",
@@ -5002,7 +5872,11 @@
       "meetingEnd": "07:00 PM",
       "website": "https://www.pack101.us",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 18:39:20"
+      "lastModified": "10/02/2026 18:39:20",
+      "coordinatesRetained": false,
+      "zipCode": "78620",
+      "beascoutUrl": "https://beascout.scouting.org/units/1c788bc8-8463-4a53-bbd8-04b1d731aaab",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "144267",
@@ -5025,7 +5899,11 @@
       "meetingEnd": "07:30 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 17:39:16"
+      "lastModified": "10/01/2026 17:39:16",
+      "coordinatesRetained": false,
+      "zipCode": "78610",
+      "beascoutUrl": "https://beascout.scouting.org/units/cd63d57c-6be7-4f43-ae6a-936f9ec1a32f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "124622",
@@ -5048,7 +5926,11 @@
       "meetingEnd": "",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "05/15/2026 13:07:09"
+      "lastModified": "05/15/2026 13:07:09",
+      "coordinatesRetained": false,
+      "zipCode": "78640",
+      "beascoutUrl": "https://beascout.scouting.org/units/a6ed2a4a-8353-4a81-a7ab-5651dcb77cbe",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "315332",
@@ -5071,7 +5953,11 @@
       "meetingEnd": "07:30 PM",
       "website": "http://www.pack127.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 19:39:16"
+      "lastModified": "10/02/2026 19:39:16",
+      "coordinatesRetained": false,
+      "zipCode": "78676",
+      "beascoutUrl": "https://beascout.scouting.org/units/fb81dde2-cd60-4b0e-9e0f-6f4739c51864",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "250893",
@@ -5094,7 +5980,11 @@
       "meetingEnd": "07:30 PM",
       "website": "www.Pack128.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 18:46:58"
+      "lastModified": "10/05/2026 18:46:58",
+      "coordinatesRetained": false,
+      "zipCode": "78610",
+      "beascoutUrl": "https://beascout.scouting.org/units/a44f739a-0fdd-4e48-b6e6-1410a289e169",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "131169",
@@ -5117,7 +6007,11 @@
       "meetingEnd": "07:00 PM",
       "website": "https://pack280bsa.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/30/2026 16:38:21"
+      "lastModified": "09/30/2026 16:38:21",
+      "coordinatesRetained": false,
+      "zipCode": "78620",
+      "beascoutUrl": "https://beascout.scouting.org/units/dce13814-f94d-4c7b-80e2-dff28f150313",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "372695",
@@ -5140,7 +6034,11 @@
       "meetingEnd": "",
       "website": "https://www.facebook.com/pack328drip",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/10/2026 22:26:39"
+      "lastModified": "09/10/2026 22:26:39",
+      "coordinatesRetained": false,
+      "zipCode": "78737",
+      "beascoutUrl": "https://beascout.scouting.org/units/93ea9b7d-bdad-4abe-a923-df319e2247fc",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "177773",
@@ -5163,7 +6061,11 @@
       "meetingEnd": "08:00 PM",
       "website": "www.pack812.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:06"
+      "lastModified": "09/28/2026 19:34:06",
+      "coordinatesRetained": false,
+      "zipCode": "78640",
+      "beascoutUrl": "https://beascout.scouting.org/units/6ccf48f1-7933-40bc-bf11-4e7e0dcda293",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "351703",
@@ -5186,7 +6088,11 @@
       "meetingEnd": "04:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "08/13/2026 19:38:29"
+      "lastModified": "08/13/2026 19:38:29",
+      "coordinatesRetained": false,
+      "zipCode": "78610",
+      "beascoutUrl": "https://beascout.scouting.org/units/c253d6f1-0a8f-4acd-8df4-a4da0947dfe9",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "374673",
@@ -5209,7 +6115,11 @@
       "meetingEnd": "",
       "website": "www.pack1836.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/03/2026 10:32:41"
+      "lastModified": "09/03/2026 10:32:41",
+      "coordinatesRetained": false,
+      "zipCode": "78620",
+      "beascoutUrl": "https://beascout.scouting.org/units/98f24818-28ee-4e34-b74e-a4f38024c404",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "113640",
@@ -5232,7 +6142,11 @@
       "meetingEnd": "07:00 PM",
       "website": "https://sites.google.com/view/cubscoutpack1954/?pli=1&authuser=0",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/07/2026 00:46:01"
+      "lastModified": "10/07/2026 00:46:01",
+      "coordinatesRetained": false,
+      "zipCode": "78666",
+      "beascoutUrl": "https://beascout.scouting.org/units/9f3dbdb8-69e6-4f43-a985-03022d50cfd2",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "378215",
@@ -5255,7 +6169,11 @@
       "meetingEnd": "06:00 PM",
       "website": "http://ship4.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "07/28/2026 11:10:57"
+      "lastModified": "07/28/2026 11:10:57",
+      "coordinatesRetained": false,
+      "zipCode": "78620",
+      "beascoutUrl": "https://beascout.scouting.org/units/349d907d-a331-4e86-8995-222496099568",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "239214",
@@ -5278,7 +6196,11 @@
       "meetingEnd": "",
       "website": "https://www.facebook.com/profile.php?id=61573900967073",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/03/2025 11:14:36"
+      "lastModified": "12/03/2025 11:14:36",
+      "coordinatesRetained": false,
+      "zipCode": "78676",
+      "beascoutUrl": "https://beascout.scouting.org/units/6050b067-09e9-4710-8b8d-f07446487d6f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "371249",
@@ -5301,7 +6223,11 @@
       "meetingEnd": "06:30 PM",
       "website": "https://www.troop4ds.com/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 10:39:57"
+      "lastModified": "10/02/2026 10:39:57",
+      "coordinatesRetained": false,
+      "zipCode": "78620",
+      "beascoutUrl": "https://beascout.scouting.org/units/4b54a65f-0e5d-4948-aabb-bad008f05c38",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "258428",
@@ -5324,7 +6250,11 @@
       "meetingEnd": "",
       "website": "http://sites.google.com/site/troop18sanmarcos/",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 10:03:53"
+      "lastModified": "08/30/2024 10:03:53",
+      "coordinatesRetained": false,
+      "zipCode": "78666",
+      "beascoutUrl": "https://beascout.scouting.org/units/ece49884-0929-43df-a8e4-d661d5256f08",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "375610",
@@ -5347,7 +6277,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "02/27/2026 16:08:14"
+      "lastModified": "02/27/2026 16:08:14",
+      "coordinatesRetained": false,
+      "zipCode": "78666",
+      "beascoutUrl": "https://beascout.scouting.org/units/38fbcf66-5168-4f2d-88ce-5e8375297eb1",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "19546",
@@ -5370,7 +6304,11 @@
       "meetingEnd": "08:30 PM",
       "website": "T101.ORG",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 07:40:38"
+      "lastModified": "10/05/2026 07:40:38",
+      "coordinatesRetained": false,
+      "zipCode": "78620",
+      "beascoutUrl": "https://beascout.scouting.org/units/df0a563c-d5df-45c5-a913-ca2d0f136b51",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "256895",
@@ -5393,7 +6331,11 @@
       "meetingEnd": "08:00 PM",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:25"
+      "lastModified": "09/28/2026 19:34:25",
+      "coordinatesRetained": false,
+      "zipCode": "78666",
+      "beascoutUrl": "https://beascout.scouting.org/units/36889d66-0e02-43dd-aefd-b24eadacb458",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "68841",
@@ -5416,7 +6358,11 @@
       "meetingEnd": "05:00 PM",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:32:14"
+      "lastModified": "09/28/2026 19:32:14",
+      "coordinatesRetained": false,
+      "zipCode": "78640",
+      "beascoutUrl": "https://beascout.scouting.org/units/9d195db8-a8f4-4357-a432-e12911d07cdd",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "49614",
@@ -5439,7 +6385,11 @@
       "meetingEnd": "08:00 PM",
       "website": "https://www.troopwebhost.org/Troop127Wimberley/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/24/2026 14:42:37"
+      "lastModified": "09/24/2026 14:42:37",
+      "coordinatesRetained": false,
+      "zipCode": "78676",
+      "beascoutUrl": "https://beascout.scouting.org/units/771d84b8-e2f9-4343-8598-e5ac777910bc",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "172827",
@@ -5462,7 +6412,11 @@
       "meetingEnd": "",
       "website": "www.bsatroop128.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/29/2025 07:33:20"
+      "lastModified": "12/29/2025 07:33:20",
+      "coordinatesRetained": false,
+      "zipCode": "78610",
+      "beascoutUrl": "https://beascout.scouting.org/units/90f17548-2af4-485c-bcb5-084cc3936515",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "379929",
@@ -5485,7 +6439,11 @@
       "meetingEnd": "08:00 PM",
       "website": "www.troop145.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 19:38:14"
+      "lastModified": "10/01/2026 19:38:14",
+      "coordinatesRetained": false,
+      "zipCode": "78640",
+      "beascoutUrl": "https://beascout.scouting.org/units/d1a21cf4-f69f-422a-bc46-faeb027f76bd",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "130901",
@@ -5508,7 +6466,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://sites.google.com/view/troop-218-buda/home",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/06/2026 08:51:00"
+      "lastModified": "09/06/2026 08:51:00",
+      "coordinatesRetained": false,
+      "zipCode": "78610",
+      "beascoutUrl": "https://beascout.scouting.org/units/5143b0a5-1576-4683-a0f3-5d9fbfc7032b",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "196193",
@@ -5531,7 +6493,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://www.troop280.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/03/2026 09:40:58"
+      "lastModified": "10/03/2026 09:40:58",
+      "coordinatesRetained": false,
+      "zipCode": "78620",
+      "beascoutUrl": "https://beascout.scouting.org/units/4c05b596-9053-47d7-bd95-7c4e780808ee",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "358074",
@@ -5554,7 +6520,11 @@
       "meetingEnd": "",
       "website": "https://www.facebook.com/troop328drip",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/05/2026 08:18:46"
+      "lastModified": "10/05/2026 08:18:46",
+      "coordinatesRetained": false,
+      "zipCode": "78737",
+      "beascoutUrl": "https://beascout.scouting.org/units/020cbe71-9baa-4d66-a5ae-3365b3354c36",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "355164",
@@ -5577,7 +6547,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "11/24/2024 15:46:27"
+      "lastModified": "11/24/2024 15:46:27",
+      "coordinatesRetained": false,
+      "zipCode": "78640",
+      "beascoutUrl": "https://beascout.scouting.org/units/2c04609a-94fc-4a8e-9888-150f689011a5",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "190568",
@@ -5600,7 +6574,11 @@
       "meetingEnd": "08:30 PM",
       "website": "troop967.net",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:33:58"
+      "lastModified": "09/28/2026 19:33:58",
+      "coordinatesRetained": false,
+      "zipCode": "78610",
+      "beascoutUrl": "https://beascout.scouting.org/units/2b7beeda-9a86-4e4a-8b98-0ed6fc950a54",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "369189",
@@ -5623,7 +6601,11 @@
       "meetingEnd": "08:00 PM",
       "website": "www.Bsatroop1948.net",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 18:39:35"
+      "lastModified": "10/02/2026 18:39:35",
+      "coordinatesRetained": false,
+      "zipCode": "78640",
+      "beascoutUrl": "https://beascout.scouting.org/units/3ab8813e-ad8e-4f32-aa94-94a2b77de9be",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "166526",
@@ -5646,7 +6628,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:33:00"
+      "lastModified": "09/28/2026 19:33:00",
+      "coordinatesRetained": false,
+      "zipCode": "78666",
+      "beascoutUrl": "https://beascout.scouting.org/units/9f5b86d7-d7d5-481b-8a12-4860a6982aa9",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "379722",
@@ -5669,7 +6655,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/03/2026 10:18:18"
+      "lastModified": "09/03/2026 10:18:18",
+      "coordinatesRetained": false,
+      "zipCode": "78620",
+      "beascoutUrl": "https://beascout.scouting.org/units/13d368e3-08e4-48c1-ad56-820983633f13",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "99175",
@@ -5692,7 +6682,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://crew-405.trooptrack.com/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/07/2026 13:59:28"
+      "lastModified": "10/07/2026 13:59:28",
+      "coordinatesRetained": false,
+      "zipCode": "78628",
+      "beascoutUrl": "https://beascout.scouting.org/units/ec9a0bd2-8561-4d7b-9dbc-9dce3ee78e07",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "201102",
@@ -5715,7 +6709,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://cubscoutspack151.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:32:22"
+      "lastModified": "09/28/2026 19:32:22",
+      "coordinatesRetained": false,
+      "zipCode": "78626",
+      "beascoutUrl": "https://beascout.scouting.org/units/56a1d97f-7496-4f84-ae44-bd899746c154",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "293616",
@@ -5738,7 +6736,11 @@
       "meetingEnd": "07:30 PM",
       "website": "http://pack196.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/30/2026 12:37:43"
+      "lastModified": "09/30/2026 12:37:43",
+      "coordinatesRetained": false,
+      "zipCode": "78642",
+      "beascoutUrl": "https://beascout.scouting.org/units/2ba5c2b9-cf1d-4473-a810-e6ac461d6723",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "376738",
@@ -5761,7 +6763,11 @@
       "meetingEnd": "07:30 PM",
       "website": "www.pack222.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:10"
+      "lastModified": "09/28/2026 19:34:10",
+      "coordinatesRetained": false,
+      "zipCode": "78642",
+      "beascoutUrl": "https://beascout.scouting.org/units/58dcb62e-2650-4e9b-953e-f4380c7994d2",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "49001",
@@ -5784,7 +6790,11 @@
       "meetingEnd": "",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "02/28/2026 01:50:00"
+      "lastModified": "02/28/2026 01:50:00",
+      "coordinatesRetained": false,
+      "zipCode": "78628",
+      "beascoutUrl": "https://beascout.scouting.org/units/7c402ef9-28e0-44e8-b7f3-6b6d9b71e545",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "379567",
@@ -5807,7 +6817,11 @@
       "meetingEnd": "07:15 PM",
       "website": "https://www.troop1096.org/cubscoutpack1096",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/03/2026 22:20:17"
+      "lastModified": "09/03/2026 22:20:17",
+      "coordinatesRetained": false,
+      "zipCode": "76527",
+      "beascoutUrl": "https://beascout.scouting.org/units/3b5f745a-bcb6-4b27-9680-1b575dfc1ac3",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "106075",
@@ -5830,7 +6844,11 @@
       "meetingEnd": "",
       "website": "https://www.troop2338.com/join/pack2338",
       "updatedWithinYear": "Yes",
-      "lastModified": "11/19/2025 19:35:47"
+      "lastModified": "11/19/2025 19:35:47",
+      "coordinatesRetained": false,
+      "zipCode": "78633",
+      "beascoutUrl": "https://beascout.scouting.org/units/c6ee6123-92f3-4afe-8073-1360c0d015e7",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "361033",
@@ -5853,7 +6871,11 @@
       "meetingEnd": "",
       "website": "https://ship-405.trooptrack.com/",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 09:41:21"
+      "lastModified": "08/30/2024 09:41:21",
+      "coordinatesRetained": false,
+      "zipCode": "78626",
+      "beascoutUrl": "https://beascout.scouting.org/units/0fac7d10-043d-4e37-830d-cfe57db59d22",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "296009",
@@ -5876,7 +6898,11 @@
       "meetingEnd": "",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/07/2026 14:02:35"
+      "lastModified": "10/07/2026 14:02:35",
+      "coordinatesRetained": false,
+      "zipCode": "78626",
+      "beascoutUrl": "https://beascout.scouting.org/units/a21c8a64-19cc-4572-91c1-3ee1eee02349",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "136764",
@@ -5899,7 +6925,11 @@
       "meetingEnd": "",
       "website": "www.troop151.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/30/2024 11:21:37"
+      "lastModified": "08/30/2024 11:21:37",
+      "coordinatesRetained": false,
+      "zipCode": "78626",
+      "beascoutUrl": "https://beascout.scouting.org/units/7b127d16-f0fa-4291-b2c8-25c943547939",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "87006",
@@ -5922,7 +6952,11 @@
       "meetingEnd": "08:30 PM",
       "website": "http://www.troopwebhost.org/Troop155Georgetown/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/29/2026 15:37:00"
+      "lastModified": "09/29/2026 15:37:00",
+      "coordinatesRetained": false,
+      "zipCode": "78626",
+      "beascoutUrl": "https://beascout.scouting.org/units/ec626688-0059-4e73-a299-491390ba3772",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "91335",
@@ -5945,7 +6979,11 @@
       "meetingEnd": "08:45 PM",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:31:54"
+      "lastModified": "09/28/2026 19:31:54",
+      "coordinatesRetained": false,
+      "zipCode": "78642",
+      "beascoutUrl": "https://beascout.scouting.org/units/d04111f9-d819-491d-8d83-c7e9c1486406",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "98535",
@@ -5968,7 +7006,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://georgetownboyscouts.trooptrack.com/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/07/2026 15:41:04"
+      "lastModified": "10/07/2026 15:41:04",
+      "coordinatesRetained": false,
+      "zipCode": "78628",
+      "beascoutUrl": "https://beascout.scouting.org/units/2adcc97d-41b0-493e-b54f-6d8471300dda",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "371816",
@@ -5991,7 +7033,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://troop1096bsa.wixsite.com/troop1096bsa/join-us",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 19:39:08"
+      "lastModified": "10/02/2026 19:39:08",
+      "coordinatesRetained": false,
+      "zipCode": "76527",
+      "beascoutUrl": "https://beascout.scouting.org/units/0e25c205-9589-442d-a04e-54927fc42942",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "238886",
@@ -6014,7 +7060,11 @@
       "meetingEnd": "08:00 PM",
       "website": "https://www.troop2338.com/join/jointroop2338",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 08:24:08"
+      "lastModified": "10/01/2026 08:24:08",
+      "coordinatesRetained": false,
+      "zipCode": "78633",
+      "beascoutUrl": "https://beascout.scouting.org/units/f241ff8c-52ce-4b72-b443-c1f96a182f52",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "358763",
@@ -6037,7 +7087,11 @@
       "meetingEnd": "",
       "website": "www.troopwebhost.org/Troop4050Georgetown/",
       "updatedWithinYear": "Yes",
-      "lastModified": "08/30/2026 12:36:24"
+      "lastModified": "08/30/2026 12:36:24",
+      "coordinatesRetained": false,
+      "zipCode": "78628",
+      "beascoutUrl": "https://beascout.scouting.org/units/dd630ce0-3db2-44bb-b249-e0445899c57f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "378298",
@@ -6060,7 +7114,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/22/2025 09:32:16"
+      "lastModified": "10/22/2025 09:32:16",
+      "coordinatesRetained": false,
+      "zipCode": "78753",
+      "beascoutUrl": "https://beascout.scouting.org/units/98d169be-e7e4-454f-92b1-c5beb2093a30",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "378554",
@@ -6083,7 +7141,11 @@
       "meetingEnd": "09:00 PM",
       "website": "https://sites.google.com/view/crew20atx",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/04/2026 12:28:10"
+      "lastModified": "09/04/2026 12:28:10",
+      "coordinatesRetained": false,
+      "zipCode": "78749",
+      "beascoutUrl": "https://beascout.scouting.org/units/bfad6e24-65b6-4d1f-968a-9f43e2e160c3",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "110295",
@@ -6106,7 +7168,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://www.troopwebhostcs.org/Pack12Austin/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 21:40:55"
+      "lastModified": "10/02/2026 21:40:55",
+      "coordinatesRetained": false,
+      "zipCode": "78739",
+      "beascoutUrl": "https://beascout.scouting.org/units/adadf748-3208-4c1d-859c-be84bb1306f5",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "280596",
@@ -6129,7 +7195,11 @@
       "meetingEnd": "07:30 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/22/2026 20:53:36"
+      "lastModified": "09/22/2026 20:53:36",
+      "coordinatesRetained": false,
+      "zipCode": "78745",
+      "beascoutUrl": "https://beascout.scouting.org/units/0c327535-e68d-4d4a-a047-09a764a1ed1d",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "312064",
@@ -6152,7 +7222,11 @@
       "meetingEnd": "",
       "website": "https://austin25.mypack.us/",
       "updatedWithinYear": "No",
-      "lastModified": "09/02/2025 09:52:44"
+      "lastModified": "09/02/2025 09:52:44",
+      "coordinatesRetained": false,
+      "zipCode": "78735",
+      "beascoutUrl": "https://beascout.scouting.org/units/2d86d748-dcc6-4dc6-a9fd-0bf8fe0101fd",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "46732",
@@ -6175,7 +7249,11 @@
       "meetingEnd": "07:00 PM",
       "website": "www.pack81austin.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/06/2026 20:47:48"
+      "lastModified": "10/06/2026 20:47:48",
+      "coordinatesRetained": false,
+      "zipCode": "78748",
+      "beascoutUrl": "https://beascout.scouting.org/units/999f0803-b403-438b-b6a9-e419df377eee",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "241239",
@@ -6198,7 +7276,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://www.facebook.com/groups/ShadyHollowPack82",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 17:39:17"
+      "lastModified": "10/01/2026 17:39:17",
+      "coordinatesRetained": false,
+      "zipCode": "78748",
+      "beascoutUrl": "https://beascout.scouting.org/units/4f07749a-2d94-4269-bed5-984f5498b211",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "213603",
@@ -6221,7 +7303,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "06/26/2026 21:39:22"
+      "lastModified": "06/26/2026 21:39:22",
+      "coordinatesRetained": false,
+      "zipCode": "78749",
+      "beascoutUrl": "https://beascout.scouting.org/units/41292247-3bf8-480d-a73c-8f03d9540d93",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "36659",
@@ -6244,7 +7330,11 @@
       "meetingEnd": "07:30 PM",
       "website": "https://austin395.mypack.us/",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/01/2026 18:38:06"
+      "lastModified": "10/01/2026 18:38:06",
+      "coordinatesRetained": false,
+      "zipCode": "78749",
+      "beascoutUrl": "https://beascout.scouting.org/units/cdd7eb4b-164c-4717-860a-2ed1c1b0be64",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "7078",
@@ -6267,7 +7357,11 @@
       "meetingEnd": "",
       "website": "www.pack-446.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "08/27/2026 16:52:15"
+      "lastModified": "08/27/2026 16:52:15",
+      "coordinatesRetained": false,
+      "zipCode": "78736",
+      "beascoutUrl": "https://beascout.scouting.org/units/f0f1ef5b-7f61-49aa-848f-1a051940259e",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "28194",
@@ -6290,7 +7384,11 @@
       "meetingEnd": "07:45 PM",
       "website": "https://pack535austin.trooptrack.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 11:40:08"
+      "lastModified": "10/02/2026 11:40:08",
+      "coordinatesRetained": false,
+      "zipCode": "78739",
+      "beascoutUrl": "https://beascout.scouting.org/units/319a87c4-c87e-4875-9771-2483d4b23999",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "357481",
@@ -6313,7 +7411,11 @@
       "meetingEnd": "",
       "website": "Troop19ATX.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "12/15/2025 15:25:08"
+      "lastModified": "12/15/2025 15:25:08",
+      "coordinatesRetained": false,
+      "zipCode": "78736",
+      "beascoutUrl": "https://beascout.scouting.org/units/e6eb683b-1fec-4b9d-9c32-b6a6f3b48354",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "195593",
@@ -6336,7 +7438,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "11/07/2024 19:25:49"
+      "lastModified": "11/07/2024 19:25:49",
+      "coordinatesRetained": false,
+      "zipCode": "78735",
+      "beascoutUrl": "https://beascout.scouting.org/units/b7a97a20-ffdb-4c3d-b664-9cc41827d0db",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "40561",
@@ -6359,7 +7465,11 @@
       "meetingEnd": "05:30 PM",
       "website": "https://austin61.mytroop.us/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:39"
+      "lastModified": "09/28/2026 19:34:39",
+      "coordinatesRetained": false,
+      "zipCode": "78735",
+      "beascoutUrl": "https://beascout.scouting.org/units/1ea99763-8338-400e-84fa-4bc13e1b4236",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "366284",
@@ -6382,7 +7492,11 @@
       "meetingEnd": "08:30 PM",
       "website": "https://troop82austin.org/",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/28/2026 19:34:44"
+      "lastModified": "09/28/2026 19:34:44",
+      "coordinatesRetained": false,
+      "zipCode": "78748",
+      "beascoutUrl": "https://beascout.scouting.org/units/73df56c2-c9ae-40aa-9e01-18eae1aec11a",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "134205",
@@ -6405,7 +7519,11 @@
       "meetingEnd": "08:30 PM",
       "website": "troop256austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 18:39:32"
+      "lastModified": "10/02/2026 18:39:32",
+      "coordinatesRetained": false,
+      "zipCode": "78745",
+      "beascoutUrl": "https://beascout.scouting.org/units/391552da-62f0-4154-814e-f91f7860cc35",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "290884",
@@ -6428,7 +7546,11 @@
       "meetingEnd": "08:00 PM",
       "website": "www.troop395austin.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/29/2026 18:37:08"
+      "lastModified": "09/29/2026 18:37:08",
+      "coordinatesRetained": false,
+      "zipCode": "78749",
+      "beascoutUrl": "https://beascout.scouting.org/units/2817c2fc-e77a-495c-9a76-bc2baa0a5b62",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "258755",
@@ -6451,7 +7573,11 @@
       "meetingEnd": "08:30 PM",
       "website": "www.troop448austin.com",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/24/2026 12:15:43"
+      "lastModified": "09/24/2026 12:15:43",
+      "coordinatesRetained": false,
+      "zipCode": "78749",
+      "beascoutUrl": "https://beascout.scouting.org/units/8614919a-e9f0-49a3-ac0a-bfae7cb5d185",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "298133",
@@ -6474,7 +7600,11 @@
       "meetingEnd": "08:45 PM",
       "website": "https://www.troopwebhost.org/Troop505Austin",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/02/2026 19:39:02"
+      "lastModified": "10/02/2026 19:39:02",
+      "coordinatesRetained": false,
+      "zipCode": "78736",
+      "beascoutUrl": "https://beascout.scouting.org/units/0d459b34-8ffb-4078-959c-5b2a87d2cc09",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "143568",
@@ -6497,7 +7627,11 @@
       "meetingEnd": "",
       "website": "https://www.troop555austin.com/",
       "updatedWithinYear": "Yes",
-      "lastModified": "08/17/2026 09:26:57"
+      "lastModified": "08/17/2026 09:26:57",
+      "coordinatesRetained": false,
+      "zipCode": "78749",
+      "beascoutUrl": "https://beascout.scouting.org/units/2dbd346a-032c-41d6-8e22-630b04717fe4",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "354728",
@@ -6520,7 +7654,11 @@
       "meetingEnd": "04:30 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "09/03/2026 16:16:15"
+      "lastModified": "09/03/2026 16:16:15",
+      "coordinatesRetained": false,
+      "zipCode": "78652",
+      "beascoutUrl": "https://beascout.scouting.org/units/d545bc0d-e699-4d16-92f2-aa19fb319a41",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "377678",
@@ -6543,7 +7681,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/06/2025 16:18:38"
+      "lastModified": "08/06/2025 16:18:38",
+      "coordinatesRetained": false,
+      "zipCode": "78753",
+      "beascoutUrl": "https://beascout.scouting.org/units/9e155c40-7457-4e0c-be6c-c2ce64e8dc1a",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "366837",
@@ -6566,7 +7708,11 @@
       "meetingEnd": "",
       "website": "www.waterloodistrict.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "06/30/2026 15:19:38"
+      "lastModified": "06/30/2026 15:19:38",
+      "coordinatesRetained": false,
+      "zipCode": "78757",
+      "beascoutUrl": "https://beascout.scouting.org/units/667ed45b-ee5a-431b-a35e-3aad764b6973",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "377948",
@@ -6589,7 +7735,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "06/30/2026 15:20:04"
+      "lastModified": "06/30/2026 15:20:04",
+      "coordinatesRetained": false,
+      "zipCode": "78752",
+      "beascoutUrl": "https://beascout.scouting.org/units/d2e28a0e-7678-4afa-a178-03d13ec2a0bd",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "356167",
@@ -6612,7 +7762,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "08/29/2024 23:43:33"
+      "lastModified": "08/29/2024 23:43:33",
+      "coordinatesRetained": false,
+      "zipCode": "78610",
+      "beascoutUrl": "https://beascout.scouting.org/units/428f8b3c-5029-40c8-9613-94d9b084e294",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "367357",
@@ -6635,7 +7789,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "No",
-      "lastModified": "03/18/2025 11:59:00"
+      "lastModified": "03/18/2025 11:59:00",
+      "coordinatesRetained": false,
+      "zipCode": "78744",
+      "beascoutUrl": "https://beascout.scouting.org/units/3a262b0f-7174-4f20-a13e-f40a627a4496",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "347588",
@@ -6658,7 +7816,11 @@
       "meetingEnd": "",
       "website": "www.waterloodistrict.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "06/30/2026 15:20:45"
+      "lastModified": "06/30/2026 15:20:45",
+      "coordinatesRetained": false,
+      "zipCode": "78724",
+      "beascoutUrl": "https://beascout.scouting.org/units/d29285da-8163-43e3-8c32-30c2a20b545c",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "378006",
@@ -6681,7 +7843,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "06/30/2026 15:21:04"
+      "lastModified": "06/30/2026 15:21:04",
+      "coordinatesRetained": false,
+      "zipCode": "78741",
+      "beascoutUrl": "https://beascout.scouting.org/units/89dcd291-ef08-4d5e-aeb3-89c55aba4efa",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "377974",
@@ -6704,7 +7870,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "06/30/2026 15:21:17"
+      "lastModified": "06/30/2026 15:21:17",
+      "coordinatesRetained": false,
+      "zipCode": "78724",
+      "beascoutUrl": "https://beascout.scouting.org/units/c8af59d1-33f3-4dfa-8da8-15b2ba89d67f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "378391",
@@ -6727,7 +7897,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "06/30/2026 15:21:29"
+      "lastModified": "06/30/2026 15:21:29",
+      "coordinatesRetained": false,
+      "zipCode": "78753",
+      "beascoutUrl": "https://beascout.scouting.org/units/8bc7de3a-1af5-43bb-8009-3c746bbc43ab",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "378938",
@@ -6750,7 +7924,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "06/30/2026 15:21:46"
+      "lastModified": "06/30/2026 15:21:46",
+      "coordinatesRetained": false,
+      "zipCode": "78753",
+      "beascoutUrl": "https://beascout.scouting.org/units/aade7c3e-a622-47ae-95a2-a83df47b668f",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "378392",
@@ -6773,7 +7951,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "06/30/2026 15:21:58"
+      "lastModified": "06/30/2026 15:21:58",
+      "coordinatesRetained": false,
+      "zipCode": "78753",
+      "beascoutUrl": "https://beascout.scouting.org/units/41193907-59f8-4b46-b72c-f23f175e01ac",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "377919",
@@ -6796,7 +7978,11 @@
       "meetingEnd": "",
       "website": "www.scouting.org",
       "updatedWithinYear": "Yes",
-      "lastModified": "06/30/2026 15:22:09"
+      "lastModified": "06/30/2026 15:22:09",
+      "coordinatesRetained": false,
+      "zipCode": "78702",
+      "beascoutUrl": "https://beascout.scouting.org/units/0d80a364-2f71-4d31-98a5-5f3bb24390f5",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     },
     {
       "id": "334190",
@@ -6819,7 +8005,17 @@
       "meetingEnd": "",
       "website": "www.waterloodistrict.org",
       "updatedWithinYear": "No",
-      "lastModified": "03/10/2025 23:50:08"
+      "lastModified": "03/10/2025 23:50:08",
+      "coordinatesRetained": false,
+      "zipCode": "78724",
+      "beascoutUrl": "https://beascout.scouting.org/units/763259c7-3a0a-4b34-8523-5768b760e564",
+      "beascoutVerifiedAt": "2026-10-10T11:40:48.583014+00:00"
     }
-  ]
+  ],
+  "beascoutCheckedAt": "2026-10-10T11:40:48.583014+00:00",
+  "beascoutSummary": {
+    "verified": 297,
+    "retained": 0,
+    "unresolved": 0
+  }
 }

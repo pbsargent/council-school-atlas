@@ -6,7 +6,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = Path(os.environ.get('ATLAS_OUTPUT_ROOT', ROOT))
 SCHOOL_FIELDS = {'school_district':'text_mkqz1pqj','county':'text_mm3cvs9s','grades':'text_mkqzxf7q','administrator':'text_mkqz1zj0','phone':'text_mkqzf8gn','website':'text_mkqzkkg3'}
 REQUIRED = set(SCHOOL_FIELDS.values()) | {'text_mkqz8vkr','text_mkqzd9jj','text_mm3cxysd','dropdown_mkqzfzs3'}
-UNIT_COLUMNS = {'unitid','unitname','districtname','pinstatus','pinview','applystatus','latitude','longitude','unitbeascoutaddress','meetingaddress','meetingschedule','meetingweek','meetingday','meetingstarttime','meetingendtime','unitwebsite','strupdatedinayear','lastmodifieddate'}
+UNIT_COLUMNS = {'unitid','unitname','districtname','pinstatus','pinview','applystatus','latitude','longitude','unitbeascoutaddress','meetingaddress','meetingschedule','meetingweek','meetingday','meetingstarttime','meetingendtime','unitwebsite','strupdatedinayear','lastmodifieddate','zipcode'}
 def read_json(path): return json.loads(Path(path).read_text())
 def atomic_json(path, data):
  path = Path(path); path.parent.mkdir(parents=True, exist_ok=True)
@@ -53,6 +53,7 @@ def unit_source(path, fresh=False):
   if not r['unitid'].strip() or not r['unitname'].strip() or not r['districtname'].strip(): raise ValueError('Invalid unit identity')
   if r['pinstatus'] not in ('Active','Inactive') or r['applystatus'] not in ('Active','Inactive'): raise ValueError('Invalid unit status')
   if r['unitname'].split()[0] not in ('Pack','Troop','Crew','Post','Ship'): raise ValueError('Unknown unit program')
+  if not r['unitid'].isdigit(): raise ValueError('Unit internal ID must be numeric')
   coordinates(r['latitude'],r['longitude']);ids.append(r['unitid'])
  if len(set(ids))!=len(ids): raise ValueError('Duplicate unit IDs')
  return rows
