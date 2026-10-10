@@ -4,6 +4,7 @@ export type UnitPin = {
   coordinates: [number, number] | null;
   pinAddress: string; meetingAddress: string; meetingSchedule: string;
   meetingWeek: string; meetingDay: string; meetingStart: string; meetingEnd: string;
+  coordinatesRetained?: boolean;
   website: string; updatedWithinYear: string; lastModified: string;
 };
 export type UnitPayload = { source: string; importedAt: string; units: UnitPin[] };

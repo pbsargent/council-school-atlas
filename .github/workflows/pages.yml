@@ -35,6 +35,12 @@ jobs:
       - name: Install dependencies
         run: pnpm install --frozen-lockfile
 
+      - name: Validate refresh pipeline
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+
+      - name: Validate application
+        run: pnpm typecheck && pnpm lint && pnpm test
+
       - name: Build static site
         run: pnpm build:github
 

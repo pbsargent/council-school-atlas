@@ -16,6 +16,7 @@ export function UnitDetails({ units, onClose }: { units: UnitPin[]; onClose: () 
         <div><dt>Meeting schedule</dt><dd>{[unit.meetingSchedule, unit.meetingWeek, unit.meetingDay, unit.meetingStart && `${unit.meetingStart}–${unit.meetingEnd || "?"}`].filter(Boolean).join(" · ") || "Not provided"}</dd></div>
         {website && <div><dt>Website</dt><dd><a href={website} target="_blank" rel="noreferrer">Open unit website</a></dd></div>}
         <div><dt>Last modified</dt><dd>{unit.lastModified || "Unavailable"}{unit.updatedWithinYear === "No" ? " · Not updated within a year" : ""}</dd></div>
+        {unit.coordinatesRetained && <div><dt>Location review</dt><dd>Source coordinates are missing; the prior verified pin is retained.</dd></div>}
         {!unit.coordinates && <div><dt>Location</dt><dd>No usable coordinates; listed in directory only.</dd></div>}
       </dl></section>;
     })}

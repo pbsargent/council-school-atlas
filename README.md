@@ -23,3 +23,11 @@ The interface uses the Council Dashboard’s CAC theme palette: navy #051f4c, bl
 Live site: https://pbsargent.github.io/council-school-atlas/
 
 Refresh school details with `python3 scripts/refresh-school-snapshot.py [monday_map_source.json]`. This verifies source identities and column/group completeness, joins mapped schools by item ID, preserves nulls and coordinates, and leaves the assignment-derived region snapshot unchanged. School and boundary dates are shown separately.
+
+## Weekly refresh safeguards
+
+Use `python3 scripts/weekly-atlas-refresh.py check` on Monday. It validates recent, complete school and unit files and compares counts with the live published site. If unchanged, do not write or publish. If changed, use `prepare` from a clean checkout; it locks against concurrent runs, stages both sources, validates them before replacement, and records the candidate under ignored `.atlas-refresh/`. School joins use item identity, preserve nulls and known geometry, remove deleted source IDs, and add Independent schools only with a unique verified in-council location. Unlocated schools remain explicit warnings. Region polygons retain their own snapshot date. Unit imports reject duplicate IDs, malformed rows, invalid statuses and corrupt coordinates; missing coordinates retain a prior verified pin with a visible warning. Personal contact fields are never imported.
+
+Before pushing, run Python refresh tests, typecheck, lint, application tests, and both production builds with bundled ARM64 Node. Review changed counts and warnings, commit only intended atlas changes, and wait for GitHub Pages. Run `python3 scripts/weekly-atlas-refresh.py verify` afterward: the full live manifest and unit payload must match local candidate data before a successful-publication receipt is written. The live site remains the count baseline if build, push, deployment or verification fails. Never replace a failed publication with a success report.
+
+Source recency validation is seven days; a stale or future-dated file requires attention, rather than an invented count change. This checks file evidence and required payloads; it cannot prove the upstream exporter delivered every record. Investigate unexpected count drops against its retrieval audit before publication.
