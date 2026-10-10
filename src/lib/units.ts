@@ -11,8 +11,9 @@ export type UnitPin = {
   website: string; updatedWithinYear: string; lastModified: string;
 };
 export type UnitPayload = { source: string; importedAt: string; units: UnitPin[] };
-export function filterUnits(units: UnitPin[], status: string, program: string, district: string) {
-  return units.filter(u => (status === "All" || u.pinStatus === status) && (program === "All" || u.program === program) && (district === "All" || u.district === district));
+export function filterUnits(units: UnitPin[], status: string, program: string, district: string, districtQuery = "") {
+  const query = districtQuery.trim().toLocaleLowerCase();
+  return units.filter(u => (status === "All" || u.pinStatus === status) && (program === "All" || u.program === program) && (district === "All" || u.district === district) && (!query || u.district.toLocaleLowerCase().includes(query)));
 }
 export function groupUnitPins(units: UnitPin[]) {
   const groups = new Map<string, UnitPin[]>();

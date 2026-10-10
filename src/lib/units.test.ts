@@ -15,6 +15,14 @@ describe("unit pins", () => {
     expect(active.filter(u => !u.coordinates)).toEqual(payload.units.filter(u => u.pinStatus === "Active" && !u.coordinates));
     expect(filterUnits(active, "Active", "Pack", "Armadillo 02").every(u => u.program === "Pack" && u.district === "Armadillo 02")).toBe(true);
   });
+  it("applies scouting district search together with program, status and district filters", () => {
+    const expected = payload.units.filter(u => u.pinStatus === "Active" && u.program === "Pack" && /armadillo/i.test(u.district));
+    expect(expected.length).toBeGreaterThan(0);
+    expect(filterUnits(payload.units, "Active", "Pack", "All", "  ARMADILLO ")).toEqual(expected);
+    expect(filterUnits(payload.units, "Active", "Pack", "Bee Cave 01", "Armadillo")).toEqual([]);
+    expect(filterUnits(payload.units, "All", "All", "All", "no such district")).toEqual([]);
+    expect(filterUnits(payload.units, "All", "All", "All", "")).toEqual(payload.units);
+  });
   it("uses only verified canonical BeAScout unit pages", () => {
     const linked = payload.units.filter(u => u.beascoutUrl);
     expect(linked.every(u => /^https:\/\/beascout\.scouting\.org\/units\/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(u.beascoutUrl!) && Boolean(u.beascoutVerifiedAt))).toBe(true);

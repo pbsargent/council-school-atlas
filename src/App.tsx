@@ -33,7 +33,7 @@ export function App() {
   const [visibility, setVisibility] = useState<VisibilityState>({ counties: true, scouting: true, schoolDistricts: true, schoolPoints: true });
   const onSelect = useCallback((feature: SelectedFeature) => { setSelected(feature); setSelectedUnits([]); }, []);
   const onUnitSelect = useCallback((units: UnitPin[]) => { setSelectedUnits(units); setSelected(null); }, []);
-  const filteredUnits = useMemo(() => data ? filterUnits(data.units.units, unitStatus, unitProgram, unitDistrict) : [], [data, unitStatus, unitProgram, unitDistrict]);
+  const filteredUnits = useMemo(() => data ? filterUnits(data.units.units, unitStatus, unitProgram, unitDistrict, activeLayer === "scouting" ? query : "") : [], [data, unitStatus, unitProgram, unitDistrict, activeLayer, query]);
 
   const activeCollection = useMemo(() => {
     if (!data) return null;
@@ -108,13 +108,13 @@ export function App() {
           <div className="filter-ribbon">
             <div className="filter-group">
               <label htmlFor="active-layer">Browse layer</label>
-              <select id="active-layer" value={activeLayer} onChange={(event) => { setActiveLayer(event.target.value as LayerKey); setSelected(null); }}>
+              <select id="active-layer" value={activeLayer} onChange={(event) => { setActiveLayer(event.target.value as LayerKey); setQuery(""); setSelected(null); setSelectedUnits([]); }}>
                 {Object.entries(layerLabels).map(([value, label]) => <option value={value} key={value}>{label}</option>)}
               </select>
             </div>
             <div className="filter-group grow">
               <label htmlFor="district-search">Search {layerLabels[activeLayer].toLowerCase()}</label>
-              <input id="district-search" type="search" value={query} onChange={(event) => setQuery(event.target.value)} placeholder={`Search ${layerLabels[activeLayer].toLowerCase()}…`} />
+              <input id="district-search" type="search" value={query} onChange={(event) => {setQuery(event.target.value);setSelected(null);setSelectedUnits([]);}} placeholder={`Search ${layerLabels[activeLayer].toLowerCase()}…`} />
             </div>
             <fieldset className="layer-toggles">
               <legend>Visible layers</legend>
@@ -142,7 +142,7 @@ export function App() {
             <label><input type="checkbox" checked={showUnits} onChange={event => {setShowUnits(event.target.checked);setSelectedUnits([]);}} /> Scouting units <span className="unit-legend">◆</span></label>
             <label>Pin status <select value={unitStatus} onChange={event => {setUnitStatus(event.target.value);setSelectedUnits([]);}}>{["Active", "Inactive", "All"].map(v => <option key={v}>{v}</option>)}</select></label>
             <label>Unit district <select value={unitDistrict} onChange={event => {setUnitDistrict(event.target.value);setSelectedUnits([]);}}>{["All", ...[...new Set(data.units.units.map(u => u.district))].sort()].map(v => <option key={v}>{v}</option>)}</select></label>
-            <span>{filteredUnits.length} units · {filteredUnits.filter(u => !u.coordinates).length} without map coordinates</span>
+            <span>{activeLayer === "scouting" && query.trim() && <>Scouting district search also filters units. </>}{filteredUnits.length} units · {filteredUnits.filter(u => !u.coordinates).length} without map coordinates</span>
           </div>
           <div className="map-stage">
             <BoundaryMap selectedUnits={selectedUnits} units={filteredUnits} showUnits={showUnits} onUnitSelect={onUnitSelect} data={data} visibility={visibility} selected={selected} coverage={coverage} minimumPercent={minimumPercent} activeLayer={activeLayer} onSelect={onSelect} />
