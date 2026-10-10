@@ -60,8 +60,6 @@ export function App() {
   if (error) return <main className="status-screen"><strong>Map data could not be loaded.</strong><span>{error}</span></main>;
   if (!data) return <main className="status-screen"><span className="loader" /><strong>Preparing council map…</strong></main>;
 
-  const schoolCount = data.schoolPoints.features.length;
-  const assignedCount = data.schoolPoints.features.filter((feature) => feature.properties?.scouting_district && feature.properties.scouting_district !== "Unassigned").length;
   const snapshotDate = new Date(data.manifest.generated_at).toLocaleDateString("en-US", { timeZone: "America/Chicago" });
 
   return (
@@ -100,13 +98,6 @@ export function App() {
             <button type="button" className="hero-button secondary" onClick={() => window.print()}>Print map</button>
           </div>
         </header>
-
-        <section className="kpi-grid" aria-label="Map summary">
-          <article className="kpi-card"><span>Mapped schools</span><strong>{schoolCount.toLocaleString()}</strong><small>Independent school locations</small></article>
-          <article className="kpi-card"><span>School districts</span><strong>{data.schoolDistricts.features.length}</strong><small>Full and partial council coverage</small></article>
-          <article className="kpi-card"><span>District assigned</span><strong>{assignedCount.toLocaleString()}</strong><small>Schools with a scouting district</small></article>
-          <article className="kpi-card"><span>Council geography</span><strong>{data.manifest.counts.scouting_district_names}</strong><small>Scouting districts · 15 counties</small></article>
-        </section>
 
         <section className="panel map-panel" id="interactive-map" aria-labelledby="map-title">
           <div className="panel-head">
