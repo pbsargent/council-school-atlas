@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs";
 import { booleanPointInPolygon } from "@turf/turf";
 import { describe, expect, it } from "vitest";
-import { filterUnits, groupUnitPins, type UnitPayload } from "./units";
+import { filterUnits, filterUnitsByBoundaries, groupUnitPins, type UnitPayload } from "./units";
 const payload: UnitPayload = JSON.parse(readFileSync(new URL("../../public/data/unit-pins.json", import.meta.url), "utf8"));
 describe("unit pins", () => {
   it("preserves unique units and excludes private contacts", () => {
@@ -22,6 +22,19 @@ describe("unit pins", () => {
     expect(filterUnits(payload.units, "Active", "Pack", "Bee Cave 01", "Armadillo")).toEqual([]);
     expect(filterUnits(payload.units, "All", "All", "All", "no such district")).toEqual([]);
     expect(filterUnits(payload.units, "All", "All", "All", "")).toEqual(payload.units);
+  });
+  it("filters units by polygon locations, including edges and disjoint areas", () => {
+    const base = payload.units[0];
+    const units = [
+      { ...base, id: "inside", coordinates: [0.5, 0.5] as [number, number] },
+      { ...base, id: "edge", coordinates: [1, 0.5] as [number, number] },
+      { ...base, id: "other", coordinates: [3.5, 3.5] as [number, number] },
+      { ...base, id: "outside", coordinates: [2, 2] as [number, number] },
+      { ...base, id: "missing", coordinates: null },
+    ];
+    const boundary = { type: "Feature" as const, properties: {}, geometry: { type: "MultiPolygon" as const, coordinates: [[[[0,0],[1,0],[1,1],[0,1],[0,0]]], [[[3,3],[4,3],[4,4],[3,4],[3,3]]]] } };
+    expect(filterUnitsByBoundaries(units, [boundary]).map(u => u.id)).toEqual(["inside", "edge", "other"]);
+    expect(filterUnitsByBoundaries(units, [])).toEqual([]);
   });
   it("uses only verified canonical BeAScout unit pages", () => {
     const linked = payload.units.filter(u => u.beascoutUrl);

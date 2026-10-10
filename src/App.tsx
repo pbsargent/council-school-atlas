@@ -3,7 +3,7 @@
 import { useCallback, useMemo, useState } from "react";
 import type { Feature, Geometry } from "geojson";
 import { UnitDetails } from "./components/UnitDetails";
-import { filterUnits, type UnitPin } from "./lib/units";
+import { filterUnitsByBoundaries, filterUnits, type UnitPin } from "./lib/units";
 import { BoundaryMap } from "./components/BoundaryMap";
 import { DetailsPanel } from "./components/DetailsPanel";
 import { useCouncilData } from "./hooks/useCouncilData";
@@ -33,7 +33,7 @@ export function App() {
   const [visibility, setVisibility] = useState<VisibilityState>({ counties: true, scouting: true, schoolDistricts: true, schoolPoints: true });
   const onSelect = useCallback((feature: SelectedFeature) => { setSelected(feature); setSelectedUnits([]); }, []);
   const onUnitSelect = useCallback((units: UnitPin[]) => { setSelectedUnits(units); setSelected(null); }, []);
-  const filteredUnits = useMemo(() => data ? filterUnits(data.units.units, unitStatus, unitProgram, unitDistrict, activeLayer === "scouting" ? query : "") : [], [data, unitStatus, unitProgram, unitDistrict, activeLayer, query]);
+
 
   const activeCollection = useMemo(() => {
     if (!data) return null;
@@ -48,6 +48,13 @@ export function App() {
     () => activeCollection ? filterFeatures(activeCollection, activeLayer, query, coverage, minimumPercent) : [],
     [activeCollection, activeLayer, query, coverage, minimumPercent],
   );
+
+  const geographicUnitFilter = activeLayer !== "scouting" && (Boolean(query.trim()) || (activeLayer === "schools" && (coverage !== "All" || minimumPercent > 0)));
+  const filteredUnits = useMemo(() => {
+    if (!data) return [];
+    const units = filterUnits(data.units.units, unitStatus, unitProgram, unitDistrict, activeLayer === "scouting" ? query : "");
+    return geographicUnitFilter ? filterUnitsByBoundaries(units, filtered) : units;
+  }, [data, unitStatus, unitProgram, unitDistrict, activeLayer, query, geographicUnitFilter, filtered]);
 
   const toggle = (key: keyof VisibilityState) => setVisibility((current) => ({ ...current, [key]: !current[key] }));
   const exportData = (format: "csv" | "geojson") => {
@@ -142,7 +149,7 @@ export function App() {
             <label><input type="checkbox" checked={showUnits} onChange={event => {setShowUnits(event.target.checked);setSelectedUnits([]);}} /> Scouting units <span className="unit-legend">◆</span></label>
             <label>Pin status <select value={unitStatus} onChange={event => {setUnitStatus(event.target.value);setSelectedUnits([]);}}>{["Active", "Inactive", "All"].map(v => <option key={v}>{v}</option>)}</select></label>
             <label>Unit district <select value={unitDistrict} onChange={event => {setUnitDistrict(event.target.value);setSelectedUnits([]);}}>{["All", ...[...new Set(data.units.units.map(u => u.district))].sort()].map(v => <option key={v}>{v}</option>)}</select></label>
-            <span>{activeLayer === "scouting" && query.trim() && <>Scouting district search also filters units. </>}{filteredUnits.length} units · {filteredUnits.filter(u => !u.coordinates).length} without map coordinates</span>
+            <span>{activeLayer === "scouting" && query.trim() && <>Scouting district search also filters units. </>}{geographicUnitFilter && <>County/school-district filters use pin locations; units without coordinates are excluded. </>}{filteredUnits.length} units · {filteredUnits.filter(u => !u.coordinates).length} without map coordinates</span>
           </div>
           <div className="map-stage">
             <BoundaryMap selectedUnits={selectedUnits} units={filteredUnits} showUnits={showUnits} onUnitSelect={onUnitSelect} data={data} visibility={visibility} selected={selected} coverage={coverage} minimumPercent={minimumPercent} activeLayer={activeLayer} onSelect={onSelect} />
