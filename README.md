@@ -21,3 +21,5 @@ Refresh the snapshot with `python3 scripts/import-unit-pins.py [path-to-PinDataR
 The interface uses the Council Dashboard’s CAC theme palette: navy #051f4c, blue #2c7ff8, green #9cba3b, gold #f6b227, red #ef4923, with matching light/dark surfaces and navy topographic imagery.
 
 Live site: https://pbsargent.github.io/council-school-atlas/
+
+Refresh school details with `python3 scripts/refresh-school-snapshot.py [monday_map_source.json]`. This verifies source identities and column/group completeness, joins mapped schools by item ID, preserves nulls and coordinates, and leaves the assignment-derived region snapshot unchanged. School and boundary dates are shown separately.

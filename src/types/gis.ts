@@ -14,6 +14,7 @@ export type CouncilData = {
 
 export type DataManifest = {
   generated_at: string;
+  school_data_at?: string;
   service_area_since: number;
   council_bounds: [number, number, number, number];
   counts: {

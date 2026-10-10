@@ -43,5 +43,11 @@
     "counties": "https://www2.census.gov/geo/tiger/GENZ2025/shp/cb_2025_us_county_500k.zip",
     "school_districts": "https://data.capitol.texas.gov/dataset/school-districts",
     "scouting_districts": "https://capitolareacouncil564.monday.com/boards/18420733851"
+  },
+  "school_data_at": "2026-10-10T05:03:20-05:00",
+  "school_refresh": {
+    "source_records": 738,
+    "mapped_records": 480,
+    "unresolved_identities": []
   }
 }

@@ -1,6 +1,6 @@
 {
   "source": "Council PinDataReport.csv",
-  "importedAt": "2026-10-09T12:44:05.323487+00:00",
+  "importedAt": "2026-10-10T10:47:29.104446+00:00",
   "units": [
     {
       "id": "371266",
@@ -3306,7 +3306,7 @@
       "meetingEnd": "08:00 PM",
       "website": "",
       "updatedWithinYear": "Yes",
-      "lastModified": "10/03/2026 10:40:49"
+      "lastModified": "10/09/2026 19:49:32"
     },
     {
       "id": "227088",
@@ -3856,6 +3856,26 @@
       "website": "http://www.blancoscouting.com/",
       "updatedWithinYear": "Yes",
       "lastModified": "10/01/2026 19:34:25"
+    },
+    {
+      "id": "380916",
+      "name": "Troop 0974, Patrick M. Goble American Legion Post 974 (F)",
+      "program": "Troop",
+      "district": "Hill Country 08",
+      "pinStatus": "Active",
+      "pinView": "Council",
+      "applicationStatus": "Inactive",
+      "coordinates": null,
+      "pinAddress": "1402 Buchanan Dr",
+      "meetingAddress": "1402 Buchanan Dr, Burnet, TX, 78611",
+      "meetingSchedule": "",
+      "meetingWeek": "",
+      "meetingDay": "",
+      "meetingStart": "",
+      "meetingEnd": "",
+      "website": "www.scouting.org",
+      "updatedWithinYear": "No",
+      "lastModified": ""
     },
     {
       "id": "370311",

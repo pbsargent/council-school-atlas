@@ -80,7 +80,7 @@ export function App() {
           <a href="https://pbsargent.github.io/council-dashboard-summary/">Council dashboard</a>
         </nav>
         <a className="report-problem" href="mailto:scouting@imetpetersargent.com?subject=Council%20school%20atlas%20issue">Report a problem</a>
-        <div className="sidebar-note"><span>Geographic snapshot</span><strong>{snapshotDate}</strong></div>
+        <div className="sidebar-note"><span>School data through</span><strong>{data.manifest.school_data_at ? new Date(data.manifest.school_data_at).toLocaleDateString("en-US", { timeZone: "America/Chicago" }) : snapshotDate}</strong><span>Boundary snapshot: {snapshotDate}</span></div>
       </aside>
 
       <main className="dashboard-main">
