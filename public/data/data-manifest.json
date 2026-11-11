@@ -44,10 +44,456 @@
     "school_districts": "https://data.capitol.texas.gov/dataset/school-districts",
     "scouting_districts": "https://capitolareacouncil564.monday.com/boards/18420733851"
   },
-  "school_data_at": "2026-10-10T05:03:20-05:00",
+  "school_data_at": "2026-11-11T13:53:24Z",
   "school_refresh": {
     "source_records": 738,
     "mapped_records": 480,
+    "unmapped_source_records": 258,
+    "new_source_ids": [],
+    "removed_source_ids": [],
+    "removed_mapped_ids": [],
+    "unlocated_independent_schools": [
+      {
+        "id": "12457850707",
+        "name": "TRINITY RANCH EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850786",
+        "name": "SMITHVILLE H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850859",
+        "name": "SMITHVILLE J H",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850916",
+        "name": "SMITHVILLE EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851015",
+        "name": "MCDADE H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851070",
+        "name": "MCDADE EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850459",
+        "name": "FLATONIA SECONDARY",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850534",
+        "name": "FLATONIA EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850628",
+        "name": "LA GRANGE H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850204",
+        "name": "LA GRANGE MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850264",
+        "name": "LA GRANGE EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850504",
+        "name": "FAYETTEVILLE SCHOOLS",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850917",
+        "name": "ROUND TOP-CARMINE H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851453",
+        "name": "GIDDINGS H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851309",
+        "name": "GIDDINGS MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851393",
+        "name": "GIDDINGS EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851898",
+        "name": "GIDDINGS INT",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850259",
+        "name": "DIME BOX SCHOOL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851117",
+        "name": "LYNDON B JOHNSON H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851169",
+        "name": "LYNDON B JOHNSON MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850581",
+        "name": "LYNDON B JOHNSON EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850461",
+        "name": "HARPER H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850586",
+        "name": "HARPER MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850669",
+        "name": "HARPER EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850893",
+        "name": "BORCHERT LOOP EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851854",
+        "name": "PRAIRIE LEA EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457876214",
+        "name": "PRAIRIE LEA H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805382",
+        "name": "YOAKUM H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805566",
+        "name": "YOAKUM J H",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457828385",
+        "name": "YOAKUM INT",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805380",
+        "name": "YOAKUM PRI",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805656",
+        "name": "YORKTOWN H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805746",
+        "name": "YORKTOWN J H",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457829690",
+        "name": "YORKTOWN EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850210",
+        "name": "WESTHOFF ACADEMY FOR COLLEGE AND CAREERS",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850411",
+        "name": "MEYERSVILLE EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850710",
+        "name": "NIXON-SMILEY H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850781",
+        "name": "NIXON-SMILEY CISD DAEP",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850822",
+        "name": "NIXON-SMILEY PACE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851240",
+        "name": "NIXON-SMILEY MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851452",
+        "name": "NIXON SMILEY EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851556",
+        "name": "WAELDER SCHOOL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851211",
+        "name": "HALLETTSVILLE H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851863",
+        "name": "HALLETTSVILLE EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851082",
+        "name": "SHINER H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851993",
+        "name": "SHINER EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457876403",
+        "name": "SWEET HOME EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850854",
+        "name": "DENISE GEIGER COMPASS CENTER",
+        "reason": "No verified in-council location"
+      },
+      {
+        "id": "12457805747",
+        "name": "STILES MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805654",
+        "name": "REED EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805744",
+        "name": "AKIN EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805843",
+        "name": "LARKSPUR EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850207",
+        "name": "NORTH EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850583",
+        "name": "HISLE Elementary",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457828383",
+        "name": "SAN MARCOS H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805387",
+        "name": "GOODNIGHT MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805564",
+        "name": "MILLER MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805840",
+        "name": "BOWIE EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850184",
+        "name": "CROCKETT EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850310",
+        "name": "DEZAVALA EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850455",
+        "name": "TRAVIS EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850529",
+        "name": "HERNANDEZ EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850631",
+        "name": "MENDEZ EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805386",
+        "name": "BONHAM PRE-K SCHOOL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850695",
+        "name": "RODRIGUEZ EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805619",
+        "name": "DRIPPING SPRINGS H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805721",
+        "name": "DRIPPING SPRINGS MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457828388",
+        "name": "SYCAMORE SPRINGS MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805562",
+        "name": "DRIPPING SPRINGS EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805713",
+        "name": "WALNUT SPRINGS EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850819",
+        "name": "ROOSTER SPRINGS EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850894",
+        "name": "SYCAMORE SPRINGS EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850996",
+        "name": "CYPRESS SPRINGS EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805650",
+        "name": "WILDWOOD SPRINGS EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851451",
+        "name": "BUDA EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457876111",
+        "name": "GRANGER SCHOOL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850951",
+        "name": "LAGO VISTA H S",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851016",
+        "name": "LAGO VISTA MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457876274",
+        "name": "LAGO VISTA EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851071",
+        "name": "LAGO VISTA INT",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457851707",
+        "name": "RIDGETOP EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850734",
+        "name": "BECKER EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457805719",
+        "name": "BARRINGTON EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850260",
+        "name": "WINN MONTESSORI",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850389",
+        "name": "SUNSET VALLEY EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850463",
+        "name": "WIDEN EL",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850627",
+        "name": "BEDICHEK MIDDLE",
+        "reason": "No verified location"
+      },
+      {
+        "id": "12457850715",
+        "name": "DAWSON EL",
+        "reason": "No verified location"
+      }
+    ],
     "unresolved_identities": []
   },
   "school_source_ids": [
